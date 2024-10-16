@@ -18,4 +18,5 @@ Download [tại đây](https://github.com/ntanhfai/Make_Iso_folders/releases)
   - Chương trình này để kiểm tra yolo label
   - https://pypi.org/project/AI-yolo-label-checker/
   - `pip install AI-yolo-label-checker`
+  - Chạy chương trình: mở Command tại thư mục cần check, gõ lệnh `AI_check` hoặc `AI_yolo_label_checker`
   
