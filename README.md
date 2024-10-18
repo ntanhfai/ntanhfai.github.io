@@ -16,6 +16,10 @@ Các chương trình của Tuấn Anh hầu hết có thể chạy trong Command
 
 ### ntanh:
   - ntanh là một thư viện các nhiệm vụ hàng ngày sử dụng, hay dùng nhưng không khó, mất thời gian code cho các dự án lẻ tẻ.
+    -  Help: `ntanh`
+    -  `ParamsBase`, dùng trong Python để lưu tham số.
+    -   Image Augmentation: CMD: `ntanh_aug`
+    -   Image dupplicate remover: `ntanh_img_del`
   - Hướng dẫn và cài đặt tại đây: https://pypi.org/project/ntanh/
   - Cài nhanh: `pip install ntanh`
 
