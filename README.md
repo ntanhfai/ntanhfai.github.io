@@ -25,3 +25,8 @@ Các chương trình của Tuấn Anh hầu hết có thể chạy trong Command
   - Cài nhanh: `pip install AI-yolo-label-checker`
   - Chạy chương trình: mở Command tại thư mục cần check, gõ lệnh `AI_check` hoặc `AI_yolo_label_checker`
   
+### FoxLabel
+  - Chương trình đánh nhãn cho Object Detection nhanh, thông minh, đa dụng. Hướng dẫn sử dụng phần mềm sẽ được in lên CMD khi chạy Foxlabel.
+  - Hướng dẫn và cài đặt tại đây: https://pypi.org/project/FoxLabel/
+  - Install:  `pip install FoxLabel`
+  - Chạy chương trình: `FoxLabel` hoặc `ntanh_foxlabel`
