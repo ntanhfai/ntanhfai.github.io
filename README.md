@@ -20,17 +20,17 @@ Các chương trình của Tuấn Anh hầu hết có thể chạy trong Command
     -  `ParamsBase`, dùng trong Python để lưu tham số.
     -   Image Augmentation: CMD: `ntanh_aug`
     -   Image dupplicate remover: CMD: `ntanh_img_del`
-  - Hướng dẫn và cài đặt tại đây: https://pypi.org/project/ntanh/
+  - Hướng dẫn và cài đặt tại đây: [https://pypi.org/project/ntanh](https://pypi.org/project/ntanh)
   - Cài nhanh: `pip install ntanh`
 
 ### AI_yolo_label_checker:
   - Chương trình này để kiểm tra yolo label
-  - Hướng dẫn và cài đặt tại đây: https://pypi.org/project/AI-yolo-label-checker/
+  - Hướng dẫn và cài đặt tại đây: [https://pypi.org/project/AI-yolo-label-checker](https://pypi.org/project/AI-yolo-label-checker)
   - Cài nhanh: `pip install AI-yolo-label-checker`
   - Chạy chương trình: mở Command tại thư mục cần check, gõ lệnh `AI_check` hoặc `AI_yolo_label_checker`
   
 ### FoxLabel
   - Chương trình đánh nhãn cho Object Detection nhanh, thông minh, đa dụng. Hướng dẫn sử dụng phần mềm sẽ được in lên CMD khi chạy Foxlabel.
-  - Hướng dẫn và cài đặt tại đây: https://pypi.org/project/FoxLabel/
+  - Hướng dẫn và cài đặt tại đây: [https://pypi.org/project/FoxLabel](https://pypi.org/project/FoxLabel)
   - Install:  `pip install FoxLabel`
   - Chạy chương trình: `FoxLabel` hoặc `ntanh_foxlabel`
