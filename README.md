@@ -34,3 +34,54 @@ Các chương trình của Tuấn Anh hầu hết có thể chạy trong Command
   - Hướng dẫn và cài đặt tại đây: [https://pypi.org/project/FoxLabel](https://pypi.org/project/FoxLabel)
   - Install:  `pip install FoxLabel`
   - Chạy chương trình: `FoxLabel` hoặc `ntanh_foxlabel`
+
+## Tính năng
+Các tools hỗ trợ tăng tốc độ và độ chính xác của dự án AI Vision: Các tools hỗ trợ tăng tốc độ và độ chính xác của dự án AI Vision:
+
+1. [OK] Đánh nhãn ảnh nhanh FoxLabel
+
+  Cách dùng [CMD]: `FoxLabel`
+
+2. [OK] Augmentation ảnh
+
+  Cách dùng: [CMD] `ntanh_aug`
+
+3. [OK] Xóa ảnh giống nhau trong DB
+
+  Cách dùng: [CMD]: `ntanh_img_del`
+
+4. [OK] Thư viện ntanh
+Bao gồm: 
+- `tactParametters`: BaseParams dung cho lưu cấu hình
+- `fnFIS`: Quét toàn bộ các file có đuôi xác định trong thư mục
+- `ta_print_log`: Lưu thông tin vào log và in ra màn hình, có đầy đủ đặc tính của lệnh print.
+- `get_Home_Dir`: lấy thư mục gốc của kho ứng dung để lưu cấu hình, thư mục này độc lập với thư mục code.
+
+- 
+  Cách dùng:
+  
+  ```python
+from ntanh.ParamsBase import tactParametters
+APP_NAME='TACT_Main'
+class Parameters(tactParametters):
+    def __init__(self, ModuleName="TACT"):
+        super().__init__(saveParam_onlyThis_APP_NAME=False)
+        self.AppName = APP_NAME
+        # self.Ready_to_run = False # Nếu bắt buộc phải config thì đặt cái này = False, khi nào user chỉnh sang True thì mới cho chạy
+        self.HD = {
+            "Mô tả": "Chương trình này nhằm xây dựng tham số cho các chương trình khác",            
+        }         
+        self.load_then_save_to_yaml(file_path=f"{APP_NAME}.yml", ModuleName=ModuleName)
+        # ===================================================================================================
+        self.in_var=1
+mParams = Parameters("TACT_Module")
+  ```
+
+4. [OK]
+
+
+
+
+
+
+
