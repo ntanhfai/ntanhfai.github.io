@@ -38,19 +38,19 @@ Các chương trình của Tuấn Anh hầu hết có thể chạy trong Command
 ## Tính năng
 Các tools hỗ trợ tăng tốc độ và độ chính xác của dự án AI Vision: Các tools hỗ trợ tăng tốc độ và độ chính xác của dự án AI Vision:
 
-### 1. [OK] Đánh nhãn ảnh nhanh FoxLabel
+### 1. [Done] Đánh nhãn ảnh nhanh FoxLabel
 
     Cách dùng [CMD]: `FoxLabel`
 
-### 2. [OK] Augmentation ảnh
+### 2. [Done] Augmentation ảnh
 
     Cách dùng: [CMD] `ntanh_aug`
 
-### 3. [OK] Xóa ảnh giống nhau trong DB
+### 3. [Done] Xóa ảnh giống nhau trong DB
 
     Cách dùng: [CMD]: `ntanh_img_del`
 
-### 4. [OK] Thư viện ntanh
+### 4. [Done] Thư viện ntanh
 
 Bao gồm: 
 - `tactParametters`: BaseParams dung cho lưu cấu hình
@@ -75,9 +75,65 @@ class Parameters(tactParametters):
         # ===================================================================================================
         self.in_var=1
 mParams = Parameters("TACT_Module")
-  ```
+mDir="."
+mParams.fnFIS(mDir=mDir, exts=("*.jpg", "*.png"))
+mParams.ta_print_log("hello")
+mParams.get_Home_Dir()
 
-4. [OK]
+from ntanh import ParamsBase
+Parameters.get_Home_Dir(AppName='IVIS_Cam360')
+```
+
+### 5. [Done] Convert Yolo to bbox to Yolo
+
+Cách dùng: 
+  
+```Python
+from ntanh.yolo_boxes import xyxy_to_yolo_str, yolo_str_to_xyxy
+class img:
+  shape = (600, 800, 3)
+
+x1 = 50
+y1 = 100
+x2 = 200
+y2 = 300
+imH, imW = img.shape[:2]
+obj_class = 0
+
+yolo_str = xyxy_to_yolo_str(obj_class, x1, y1, x2, y2, imH, imW)
+print(yolo_str)  # "0 0.156250 0.333333 0.187500 0.333333"
+
+# yolo_str = "0 0.195312 0.416667 0.234375 0.416667"
+yolo_str = "0 0.156250 0.333333 0.187500 0.333333"
+imH, imW = img.shape[:2]
+
+obj_class, x1, y1, x2, y2 = yolo_str_to_xyxy(yolo_str, imH, imW)
+print(obj_class, x1, y1, x2, y2)  # 0 62 125 249 375
+
+```
+
+### 6. [TODO] Yolo Cam360 Projection label checking
+
+Kiểm tra đánh nhãn ảnh cho Cam360 khi chiếu lên hình cầu, nhằm đảm bảo đánh nhãn không bị lỗi.
+
+### 7. [Doing] Phần mềm Test kết quả cho IVIS, ảnh 2D
+
+Khi User test xong, phần mềm sẽ lưu kết quả test vào video, chúng ta sẽ dùng video này để test lại độ chính xác của phần mềm IVIS.
+Phần mềm này sẽ 
+- Mở được video, 
+- (Lọc bỏ các ảnh giống nhau, tùy chọn, để giảm dung lượng video cho mục đích lưu trữ và truy xuất nhanh hơn)
+- Đánh dấu các vị trí có người qua lại, 
+- Đánh dấu nhãn của IVIS và nhãn thực tế
+- Xuất báo cáo test cho thư mục test.
+
+### 8. [TODO] Chuẩn hóa thư viện UI
+
+### 9. [TODO] 
+
+
+
+
+
 
 
 
