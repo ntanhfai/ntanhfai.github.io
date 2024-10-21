@@ -38,29 +38,29 @@ Các chương trình của Tuấn Anh hầu hết có thể chạy trong Command
 ## Tính năng
 Các tools hỗ trợ tăng tốc độ và độ chính xác của dự án AI Vision: Các tools hỗ trợ tăng tốc độ và độ chính xác của dự án AI Vision:
 
-1. [OK] Đánh nhãn ảnh nhanh FoxLabel
+### 1. [OK] Đánh nhãn ảnh nhanh FoxLabel
 
-  Cách dùng [CMD]: `FoxLabel`
+    Cách dùng [CMD]: `FoxLabel`
 
-2. [OK] Augmentation ảnh
+### 2. [OK] Augmentation ảnh
 
-  Cách dùng: [CMD] `ntanh_aug`
+    Cách dùng: [CMD] `ntanh_aug`
 
-3. [OK] Xóa ảnh giống nhau trong DB
+### 3. [OK] Xóa ảnh giống nhau trong DB
 
-  Cách dùng: [CMD]: `ntanh_img_del`
+    Cách dùng: [CMD]: `ntanh_img_del`
 
-4. [OK] Thư viện ntanh
+### 4. [OK] Thư viện ntanh
+
 Bao gồm: 
 - `tactParametters`: BaseParams dung cho lưu cấu hình
 - `fnFIS`: Quét toàn bộ các file có đuôi xác định trong thư mục
 - `ta_print_log`: Lưu thông tin vào log và in ra màn hình, có đầy đủ đặc tính của lệnh print.
 - `get_Home_Dir`: lấy thư mục gốc của kho ứng dung để lưu cấu hình, thư mục này độc lập với thư mục code.
 
-- 
-  Cách dùng:
+Cách dùng:
   
-  ```python
+```python
 from ntanh.ParamsBase import tactParametters
 APP_NAME='TACT_Main'
 class Parameters(tactParametters):
