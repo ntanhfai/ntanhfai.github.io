@@ -128,7 +128,9 @@ Phần mềm này sẽ
 
 ### 8. [TODO] Chuẩn hóa thư viện UI
 
-### 9. [TODO] 
+### 9. [TODO] Lưu lại video + predicted label của dự án Longhua, phục vụ Re-training
+
+### 10. [TODO]
 
 
 
