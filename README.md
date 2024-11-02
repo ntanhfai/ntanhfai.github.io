@@ -16,10 +16,20 @@ Các chương trình của Tuấn Anh hầu hết có thể chạy trong Command
 
 ### ntanh:
   - ntanh là một thư viện các nhiệm vụ hàng ngày sử dụng, hay dùng nhưng không khó, mất thời gian code cho các dự án lẻ tẻ.
-    -  Help: CMD: `ntanh`
-    -  `ParamsBase`, dùng trong Python để lưu tham số.
-    -   Image Augmentation: CMD: `ntanh_aug`
-    -   Image dupplicate remover: CMD: `ntanh_img_del`
+    - CMD: `ntanh`: Help
+    - `ParamsBase`: dùng trong Python để lưu tham số.
+    - CMD: `ntanh_aug`: Image Augmentation: 
+    - CMD: `ntanh_img_del`: Image dupplicate remover
+    - CMD: `ntanh_img_resize`: Việc này giúp thay đổi kích thước ảnh về tỷ lệ lý tưởng cho việc huấn luyện mô hình.
+    - CMD: `ntanh_delete_files_extention`:
+    - `ntanh_delete_files_dupplicates`: Viết chương trình lọc bỏ ảnh trùng nhau theo nội dung
+        - Tối Ưu Hóa Qua Phân Cụm Dựa Trên Đặc Trưng (Feature Clustering)
+        - Thay vì hash và SSIM, có thể sử dụng các đặc trưng (features) dựa trên đặc điểm cục bộ của ảnh để phân nhóm các ảnh tương tự. Với OpenCV:
+            - ORB (Oriented FAST and Rotated BRIEF): Phương pháp này giúp phát hiện và mô tả các đặc trưng quan trọng trong ảnh, không bị ảnh hưởng nhiều bởi thay đổi góc nhìn.
+            - K-means clustering hoặc các thuật toán phân cụm khác để gom các ảnh có đặc trưng giống nhau lại và giữ lại các ảnh đại diện.
+        - Điều này sẽ giúp giảm thiểu các ảnh gần giống nhau nhưng vẫn đảm bảo đa dạng hóa góc nhìn của đối tượng trong tập huấn luyện.
+    - `ntanh_img_resize`: Resize folder images: Việc này giúp thay đổi kích thước ảnh về tỷ lệ lý tưởng cho việc huấn luyện mô hình.
+    - 
   - Hướng dẫn và cài đặt tại đây: [https://pypi.org/project/ntanh](https://pypi.org/project/ntanh)
   - Cài nhanh: `pip install ntanh`
 
