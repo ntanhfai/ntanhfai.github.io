@@ -148,7 +148,7 @@ Phần mềm này sẽ
 - Đánh dấu các vị trí có người qua lại, 
 - Đánh dấu nhãn của IVIS và nhãn thực tế
 - Xuất báo cáo test cho thư mục test.
-- Tải về từ https://drive.google.com/drive/folders/18OAGVkjDYoRwkxnuOa4_vKVmho1nUsif?usp=drive_link 
+- Tải về từ [Gdrive](https://drive.google.com/drive/folders/18OAGVkjDYoRwkxnuOa4_vKVmho1nUsif?usp=drive_link)
 ![alt text](images/image2.png)
 
 ### 8. [TODO] Chuẩn hóa thư viện UI
