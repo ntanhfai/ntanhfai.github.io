@@ -52,7 +52,7 @@ RTSPs Video Recorder là công cụ lý tưởng cho những ai đang tìm kiế
 ---
 # Download và cài đặt
 
-Tải về từ đây: [Gdrive download] (https://drive.google.com/file/d/1gpN7hs3-TtU4AFCoNMDFNBzCHz_uYXGm/view?usp=sharing)
+Tải về từ đây: [Gdrive download](https://drive.google.com/file/d/1gpN7hs3-TtU4AFCoNMDFNBzCHz_uYXGm/view?usp=sharing)
 
 Giải nén ra, chạy, thay đổi link rtsp, lưu cấu hình, khởi động lại chương trình.
 
