@@ -1,0 +1,1 @@
+# Viết hàm đọc barcode của 1 ảnh, trả về 1 list các barcode trong ảnh đó

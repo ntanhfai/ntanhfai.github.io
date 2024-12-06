@@ -1,9 +1,17 @@
 # Các nội dung quan trọng
 
+## Apps-Tools-Competed Code
 - [RTSP_Server_from_videos](https://ntanhfai.github.io/RTSP_Server_from_videos/)
 - [RTSPs_Video_Recorder](https://ntanhfai.github.io/RTSPs_Video_Recorder/)
 
+## Study
+- Management: [PM](https://ntanhfai.github.io/Management/)
+- Vision: [AI Vision Engineer](https://ntanhfai.github.io/Vision/)
+- Web-System-Tools: [Web-System-Tools](https://ntanhfai.github.io/Web-System-Tools/)
+- Python Book [Download](Data-Books/000 Python cheatsheet.pdf)
 
+
+# Hướng dẫn khác
 
 ## 1. Make_Iso_folders
 
