@@ -116,15 +116,17 @@ print(obj_class, x1, y1, x2, y2)  # 0 62 125 249 375
 
 Kiểm tra đánh nhãn ảnh cho Cam360 khi chiếu lên hình cầu, nhằm đảm bảo đánh nhãn không bị lỗi.
 
-### 7. [Doing] Phần mềm Test kết quả cho IVIS, ảnh 2D
+### 7. [Done] Phần mềm Test kết quả cho IVIS, ảnh 2D
 
 Khi User test xong, phần mềm sẽ lưu kết quả test vào video, chúng ta sẽ dùng video này để test lại độ chính xác của phần mềm IVIS.
 Phần mềm này sẽ 
 - Mở được video, 
-- (Lọc bỏ các ảnh giống nhau, tùy chọn, để giảm dung lượng video cho mục đích lưu trữ và truy xuất nhanh hơn)
+- (Lọc bỏ các ảnh giống nhau, tùy chọn, để giảm dung lượng video cho mục đích lưu trữ và truy xuất nhanh hơn): TODO
 - Đánh dấu các vị trí có người qua lại, 
 - Đánh dấu nhãn của IVIS và nhãn thực tế
 - Xuất báo cáo test cho thư mục test.
+- Tải về từ https://drive.google.com/drive/folders/18OAGVkjDYoRwkxnuOa4_vKVmho1nUsif?usp=drive_link 
+![alt text](images/image2.png)
 
 ### 8. [TODO] Chuẩn hóa thư viện UI
 
