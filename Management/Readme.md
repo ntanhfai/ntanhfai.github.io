@@ -1,4 +1,9 @@
 # Quản lý hệ thống - Quản lý phần mềm - Quản lý dự án
+
+## Links:
+- [Go Home](https://ntanhfai.github.io/)
+
+## Nội dung
 Các bạn làm về quản lý cần học những kiến thức liên quan đến quản lý, lãnh đạo, quản lý dự án,...
 
 Dưới đây là một lộ trình tham khảo để các bạn học trước khi vào làm việc:
