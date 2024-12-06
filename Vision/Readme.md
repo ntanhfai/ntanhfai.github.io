@@ -1,6 +1,6 @@
 # Bài học: chuẩn bị cho các bài học tiếp theo.
 
-Link GitHub của lớp AI-Class: [Tại đây](https://github.com/anh-ai/AI_Libs). Bạn cần phải theo dõi Github này thường xuyên vì nó có thể liên tục được cập nhật 
+Link GitHub của lớp AI-Class: [Tại đây](https://github.com/ntanhfai/ntanhfai.github.io/tree/main/Vision). Bạn cần phải theo dõi Github này thường xuyên vì nó có thể liên tục được cập nhật 
 
 ##    1. Cài đặt môi trường
 - Cách 1: Cài Anaconda: Môi trường tự động cài mọi thứ cần thiết, tuy nhiên cài nhiều quá sẽ gây nặng máy, khuyên dùng cho người mới
