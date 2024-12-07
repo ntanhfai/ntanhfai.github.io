@@ -10,6 +10,7 @@ title: Các khái niệm quan trọng liên quan đến **tiền** trong một d
 ## Links:
 - [Go Home](https://ntanhfai.github.io/)
 
+{% include ta_includes\menu.html %}
 
 ### **1. Doanh thu (Revenue)**  
 - Tổng số tiền thu được từ việc bán sản phẩm hoặc cung cấp dịch vụ.  
