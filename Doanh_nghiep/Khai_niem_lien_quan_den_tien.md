@@ -3,82 +3,33 @@
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
+<link rel="stylesheet" href="/ta_includes/tastyle.css">
+<nav class="menu">
+  <ol>
+    <li class="menu-item"><a href="#0">Home</a></li>
+    <li class="menu-item"><a href="#0">About</a></li>
+    <li class="menu-item">
+      <a href="#0">Widgets</a>
+      <ol class="sub-menu">
+        <li class="menu-item"><a href="#0">Big Widgets</a></li>
+        <li class="menu-item"><a href="#0">Bigger Widgets</a></li>
+        <li class="menu-item"><a href="#0">Huge Widgets</a></li>
+      </ol>
+    </li>
+    <li class="menu-item">
+      <a href="#0">Kabobs</a>
+      <ol class="sub-menu">
+        <li class="menu-item"><a href="#0">Shishkabobs</a></li>
+        <li class="menu-item"><a href="#0">BBQ kabobs</a></li>
+        <li class="menu-item"><a href="#0">Summer kabobs</a></li>
+      </ol>
+    </li>
+    <li class="menu-item"><a href="#0">Contact</a></li>
+  </ol>
+</nav> 
+-----------------------------------------------------------------
 ## Links:
 - [Go Home](https://ntanhfai.github.io/)
-
-
-
-
-<style>
-    /* Reset the list and remove default styling */
-    nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    background-color: #333; /* Dark background for the menu */
-    text-decoration: none;
-    }
-
-    /* Style for each menu item */
-    nav ul li {
-    margin: 0 20px;
-    text-decoration: none;
-    }
-
-    /* Style the links */
-    nav ul li a {
-    text-decoration: none;
-    color: white; /* White text color */
-    font-size: 16px;
-    padding: 10px 20px;
-    display: inline-block;
-    transition: background-color 0.3s ease, color 0.3s ease;
-    }
-
-    /* Hover effect */
-    nav ul li a:hover {
-    background-color: #575757; /* Slightly lighter dark background on hover */
-    color: #ff6347; /* Change text color on hover */
-    text-decoration: none;
-    }
-
-    /* Active link styling */
-    nav ul li a.active {
-    background-color: #ff6347; /* Active link has a distinct color */
-    color: white; /* Active link text stays white */
-    text-decoration: none;
-    }
-
-</style>
-<nav>
-  <ul>
-    <li><a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
-    <li><a href="/Management/" class="{% if page.url == '/Management/' %}active{% endif %}">Management</a></li>
-    <li><a href="/Vision/" class="{% if page.url == '/Vision/' %}active{% endif %}">Vision</a></li>
-    <li><a href="/Web-System-Tools/" class="{% if page.url == '/Web-System-Tools/' %}active{% endif %}">Web System Tools</a></li>
-    <li><a href="/Doanh_nghiep/Khai_niem_lien_quan_den_tien.md" class="{% if page.url == '/Doanh_nghiep/Khai_niem_lien_quan_den_tien.md' %}active{% endif %}">Doanh nghiệp</a></li>
-    <li><a href="/about.html" class="{% if page.url == '/about.html' %}active{% endif %}">About</a></li>
-  </ul>
-</nav>
-<script>
-    // Optional: If you want to dynamically handle the active class without relying on server-side logic.
-document.addEventListener('DOMContentLoaded', function () {
-  const currentPath = window.location.pathname;
-  const links = document.querySelectorAll('nav ul li a');
-
-  links.forEach(link => {
-    if (link.getAttribute('href') === currentPath) {
-      link.classList.add('active');
-    } else {
-      link.classList.remove('active');
-    }
-  });
-});
-
-</script>
------------------------------------------------------------------
 
 ### **1. Doanh thu (Revenue)**  
 - Tổng số tiền thu được từ việc bán sản phẩm hoặc cung cấp dịch vụ.  
