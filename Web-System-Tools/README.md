@@ -1,5 +1,4 @@
----
-layout: default
+--- 
 title: Web-System-Tools's Lesson path
 ---
 

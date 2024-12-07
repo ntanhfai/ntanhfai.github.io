@@ -1,5 +1,4 @@
----
-layout: default
+--- 
 title: PM's Lesson path
 ---
 
