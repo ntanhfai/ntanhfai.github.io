@@ -6,11 +6,46 @@
 ## Links:
 - [Go Home](https://ntanhfai.github.io/)
 
+
+
+
 <style>
+    /* Reset the list and remove default styling */
+    nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #333; /* Dark background for the menu */
+    }
+
+    /* Style for each menu item */
+    nav ul li {
+    margin: 0 20px;
+    }
+
+    /* Style the links */
+    nav ul li a {
+    text-decoration: none;
+    color: white; /* White text color */
+    font-size: 16px;
+    padding: 10px 20px;
+    display: inline-block;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    /* Hover effect */
+    nav ul li a:hover {
+    background-color: #575757; /* Slightly lighter dark background on hover */
+    color: #ff6347; /* Change text color on hover */
+    }
+
+    /* Active link styling */
     nav ul li a.active {
-        font-weight: bold;
-        color: #ff6347; /* Màu đỏ nổi bật */
-        }
+    background-color: #ff6347; /* Active link has a distinct color */
+    color: white; /* Active link text stays white */
+    }
 
 </style>
 <nav>
@@ -23,6 +58,23 @@
     <li><a href="/about.html" class="{% if page.url == '/about.html' %}active{% endif %}">About</a></li>
   </ul>
 </nav>
+<script>
+    // Optional: If you want to dynamically handle the active class without relying on server-side logic.
+document.addEventListener('DOMContentLoaded', function () {
+  const currentPath = window.location.pathname;
+  const links = document.querySelectorAll('nav ul li a');
+
+  links.forEach(link => {
+    if (link.getAttribute('href') === currentPath) {
+      link.classList.add('active');
+    } else {
+      link.classList.remove('active');
+    }
+  });
+});
+
+</script>
+-----------------------------------------------------------------
 
 ### **1. Doanh thu (Revenue)**  
 - Tổng số tiền thu được từ việc bán sản phẩm hoặc cung cấp dịch vụ.  
