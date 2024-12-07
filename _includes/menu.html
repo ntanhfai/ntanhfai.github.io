@@ -1,0 +1,17 @@
+<style>
+    nav ul li a.active {
+        font-weight: bold;
+        color: #ff6347; /* Màu đỏ nổi bật */
+        }
+
+</style>
+<nav>
+  <ul>
+    <li><a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
+    <li><a href="/page1.html" class="{% if page.url == '/page1.html' %}active{% endif %}">Page 1</a></li>
+    <li><a href="/page2.html" class="{% if page.url == '/page2.html' %}active{% endif %}">Page 2</a></li>
+    <li><a href="/about.html" class="{% if page.url == '/about.html' %}active{% endif %}">About</a></li>
+    <li><a href="/contact.html" class="{% if page.url == '/contact.html' %}active{% endif %}">Contact</a></li>
+  </ul>
+</nav>
+
