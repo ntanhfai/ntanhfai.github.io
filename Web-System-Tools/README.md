@@ -1,3 +1,8 @@
+---
+layout: default
+title: Web-System-Tools's Lesson path
+---
+
 # Bài học: chuẩn bị cho các bài học tiếp theo.
 
 
