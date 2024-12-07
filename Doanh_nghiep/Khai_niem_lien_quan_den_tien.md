@@ -18,11 +18,13 @@
     display: flex;
     justify-content: center;
     background-color: #333; /* Dark background for the menu */
+    text-decoration: none;
     }
 
     /* Style for each menu item */
     nav ul li {
     margin: 0 20px;
+    text-decoration: none;
     }
 
     /* Style the links */
@@ -39,22 +41,24 @@
     nav ul li a:hover {
     background-color: #575757; /* Slightly lighter dark background on hover */
     color: #ff6347; /* Change text color on hover */
+    text-decoration: none;
     }
 
     /* Active link styling */
     nav ul li a.active {
     background-color: #ff6347; /* Active link has a distinct color */
     color: white; /* Active link text stays white */
+    text-decoration: none;
     }
 
 </style>
 <nav>
   <ul>
     <li><a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
-    <li><a href="/Management/Readme.md" class="{% if page.url == '/Management/Readme.md' %}active{% endif %}">Management</a></li>
-    <li><a href="/Vision/Readme.md" class="{% if page.url == '/Vision/Readme.md' %}active{% endif %}">Vision</a></li>
-    <li><a href="Web-System-Tools/README.md" class="{% if page.url == 'Web-System-Tools/README.md' %}active{% endif %}">Web System Tools</a></li>
-    <li><a href="Doanh_nghiep/Khai_niem_lien_quan_den_tien.md" class="{% if page.url == 'Doanh_nghiep/Khai_niem_lien_quan_den_tien.md' %}active{% endif %}">Doanh nghiệp</a></li>
+    <li><a href="/Management/" class="{% if page.url == '/Management/' %}active{% endif %}">Management</a></li>
+    <li><a href="/Vision/" class="{% if page.url == '/Vision/' %}active{% endif %}">Vision</a></li>
+    <li><a href="/Web-System-Tools/" class="{% if page.url == '/Web-System-Tools/' %}active{% endif %}">Web System Tools</a></li>
+    <li><a href="/Doanh_nghiep/Khai_niem_lien_quan_den_tien.md" class="{% if page.url == '/Doanh_nghiep/Khai_niem_lien_quan_den_tien.md' %}active{% endif %}">Doanh nghiệp</a></li>
     <li><a href="/about.html" class="{% if page.url == '/about.html' %}active{% endif %}">About</a></li>
   </ul>
 </nav>
