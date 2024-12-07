@@ -6,6 +6,23 @@
 ## Links:
 - [Go Home](https://ntanhfai.github.io/)
 
+<style>
+    nav ul li a.active {
+        font-weight: bold;
+        color: #ff6347; /* Màu đỏ nổi bật */
+        }
+
+</style>
+<nav>
+  <ul>
+    <li><a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
+    <li><a href="/Management/Readme.md" class="{% if page.url == '/Management/Readme.md' %}active{% endif %}">Management</a></li>
+    <li><a href="/Vision/Readme.md" class="{% if page.url == '/Vision/Readme.md' %}active{% endif %}">Vision</a></li>
+    <li><a href="Web-System-Tools/README.md" class="{% if page.url == 'Web-System-Tools/README.md' %}active{% endif %}">Web System Tools</a></li>
+    <li><a href="Doanh_nghiep/Khai_niem_lien_quan_den_tien.md" class="{% if page.url == 'Doanh_nghiep/Khai_niem_lien_quan_den_tien.md' %}active{% endif %}">Doanh nghiệp</a></li>
+    <li><a href="/about.html" class="{% if page.url == '/about.html' %}active{% endif %}">About</a></li>
+  </ul>
+</nav>
 
 ### **1. Doanh thu (Revenue)**  
 - Tổng số tiền thu được từ việc bán sản phẩm hoặc cung cấp dịch vụ.  
