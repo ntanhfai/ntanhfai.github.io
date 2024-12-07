@@ -77,7 +77,7 @@
 
 ### **10. Dòng tiền tự do (Free Cash Flow - FCF)**  
 - Tiền còn lại sau khi trừ chi phí đầu tư từ dòng tiền hoạt động.  
-
+ 
 ---
 
 ### **11. Doanh thu chưa thực hiện (Deferred Revenue)**  
@@ -108,8 +108,8 @@
 
 ### **16. Biên lợi nhuận (Profit Margin)**  
 - Tỷ lệ lợi nhuận trên doanh thu, thể hiện hiệu quả sinh lời:  
-  - **Biên lợi nhuận gộp**: $$(\text{Lợi nhuận gộp} / \text{Doanh thu}) \times 100\%$$
-  - **Biên lợi nhuận ròng**: $$(\text{Lợi nhuận ròng} / \text{Doanh thu}) \times 100\%$$
+  - **Biên lợi nhuận gộp**: \((\text{Lợi nhuận gộp} / \text{Doanh thu}) \times 100\%\).  
+  - **Biên lợi nhuận ròng**: \((\text{Lợi nhuận ròng} / \text{Doanh thu}) \times 100\%\).  
 
 ---
 
@@ -121,7 +121,7 @@
 
 ### **18. Vòng quay vốn (Working Capital Turnover)**  
 - Tốc độ sử dụng và tái tạo vốn lưu động.  
-- **Vốn lưu động (Working Capital)**: $$\text{Tài sản ngắn hạn} - \text{Nợ ngắn hạn}$$
+- **Vốn lưu động (Working Capital)**: \(\text{Tài sản ngắn hạn} - \text{Nợ ngắn hạn}\).
 
 ---
 
@@ -133,8 +133,8 @@
 
 ### **20. Hệ số thanh toán (Liquidity Ratios)**  
 - Các chỉ số đo lường khả năng thanh toán nợ:  
-  - **Hệ số thanh toán ngắn hạn (Current Ratio)**: $$\text{Tài sản ngắn hạn} / \text{Nợ ngắn hạn}$$  
-  - **Hệ số thanh toán nhanh (Quick Ratio)**: $$(\text{Tài sản ngắn hạn} - \text{Hàng tồn kho}) / \text{Nợ ngắn hạn}$$
+  - **Hệ số thanh toán ngắn hạn (Current Ratio)**: \(\text{Tài sản ngắn hạn} / \text{Nợ ngắn hạn}\).  
+  - **Hệ số thanh toán nhanh (Quick Ratio)**: \((\text{Tài sản ngắn hạn} - \text{Hàng tồn kho}) / \text{Nợ ngắn hạn}\).
 
 ---
 
@@ -145,8 +145,8 @@
 
 ### **22. Tỷ suất sinh lời (Return Ratios)**  
 - Đo lường khả năng sinh lời trên vốn hoặc tài sản:  
-  - **ROA (Return on Assets)**: $$(\text{Lợi nhuận ròng} / \text{Tài sản}) \times 100\%$$  
-  - **ROE (Return on Equity)**: $$(\text{Lợi nhuận ròng} / \text{Vốn chủ sở hữu}) \times 100\%$$
+  - **ROA (Return on Assets)**: \((\text{Lợi nhuận ròng} / \text{Tài sản}) \times 100\%\).  
+  - **ROE (Return on Equity)**: \((\text{Lợi nhuận ròng} / \text{Vốn chủ sở hữu}) \times 100\%\).
 
 ---
 
@@ -162,7 +162,7 @@
 
 ### **25. Chi phí cơ hội (Opportunity Cost)**  
 - Giá trị lợi ích bị mất đi khi chọn một phương án tài chính này thay vì phương án khác.  
-
+ 
 ---
 
 ### **26. Vốn lưu động ròng (Net Working Capital)**  
@@ -211,7 +211,7 @@
 
 ### **34. Kỳ thu tiền bình quân (Days Sales Outstanding - DSO)**  
 - Thời gian trung bình để thu hồi tiền từ khách hàng.  
-- **Cách tính**: $$(\text{Các khoản phải thu} / \text{Doanh thu}) \times 365$$  
+- **Cách tính**: \((\text{Các khoản phải thu} / \text{Doanh thu}) \times 365\).  
 
 ---
 
@@ -237,7 +237,7 @@
 
 ### **39. Lãi suất kép (Compound Interest)**  
 - Lãi tính trên cả vốn gốc và lãi đã phát sinh.  
-- **Công thức**: $$ A = P \times (1 + r)^n $$  
+- **Công thức**: \( A = P \times (1 + r)^n \).  
 
 ---
 
@@ -249,7 +249,7 @@
 
 ### **41. Điểm hòa vốn (Break-even Point)**  
 - Mức doanh thu tại đó doanh nghiệp không lãi cũng không lỗ.  
-- **Công thức**: $$ \text{Điểm hòa vốn} = \frac{\text{Chi phí cố định}}{\text{Biên lợi nhuận gộp}} $$
+- **Công thức**: \( \text{Điểm hòa vốn} = \frac{\text{Chi phí cố định}}{\text{Biên lợi nhuận gộp}} \).  
 
 ---
 
@@ -275,29 +275,29 @@
 
 ### **46. Hệ số vòng quay tài sản (Asset Turnover Ratio)**  
 - Đo lường hiệu quả sử dụng tài sản để tạo doanh thu:  
-  $$ \text{Asset Turnover} = \text{Doanh thu thuần} / \text{Tổng tài sản} .  $$
+  \[ \text{Asset Turnover} = \text{Doanh thu thuần} / \text{Tổng tài sản} \].  
 
 ---
 
 ### **47. Hệ số đòn bẩy hoạt động (Operating Leverage)**  
 - Đánh giá mức độ doanh nghiệp sử dụng chi phí cố định để tăng lợi nhuận.  
-
+  
 ---
 
 ### **48. Hệ số nợ trên tài sản (Debt to Asset Ratio)**  
-- **Công thức**: $$\text{Tổng nợ phải trả} / \text{Tổng tài sản}$$  
+- **Công thức**: \(\text{Tổng nợ phải trả} / \text{Tổng tài sản}\).  
 - **Ý nghĩa**: Đánh giá mức độ phụ thuộc vào nợ của doanh nghiệp so với tài sản.
 
 ---
 
 ### **49. Tỷ lệ chi trả cổ tức (Dividend Payout Ratio)**  
-- **Công thức**: $$\text{Cổ tức trả cho cổ đông} / \text{Lợi nhuận ròng}$$  
+- **Công thức**: \(\text{Cổ tức trả cho cổ đông} / \text{Lợi nhuận ròng}\).  
 - **Ý nghĩa**: Phản ánh phần lợi nhuận chia cho cổ đông thay vì giữ lại.  
 
 ---
 
 ### **50. Hệ số khả năng trả lãi (Interest Coverage Ratio)**  
-- **Công thức**: $$\text{EBIT (Lợi nhuận trước lãi và thuế)} / \text{Chi phí lãi vay}$$  
+- **Công thức**: \(\text{EBIT (Lợi nhuận trước lãi và thuế)} / \text{Chi phí lãi vay}\).  
 - **Ý nghĩa**: Đo khả năng trả lãi vay từ lợi nhuận của doanh nghiệp.  
 
 ---
@@ -348,7 +348,7 @@
 ---
 
 ### **60. Lợi tức trên đầu tư (Return on Investment - ROI)**  
-- **Công thức**: $$(\text{Lợi nhuận thuần} / \text{Chi phí đầu tư}) \times 100\%$$  
+- **Công thức**: \((\text{Lợi nhuận thuần} / \text{Chi phí đầu tư}) \times 100\%\).  
 - **Ý nghĩa**: Đo lường hiệu quả của khoản đầu tư.  
 
 ---
@@ -359,7 +359,7 @@
 ---
 
 ### **62. Hệ số vòng quay hàng tồn kho (Inventory Turnover Ratio)**  
-- **Công thức**: $$\text{Giá vốn hàng bán} / \text{Hàng tồn kho trung bình}$$  
+- **Công thức**: \(\text{Giá vốn hàng bán} / \text{Hàng tồn kho trung bình}\).  
 - **Ý nghĩa**: Đo mức độ hiệu quả trong việc quản lý hàng tồn kho.  
 
 ---
@@ -405,9 +405,9 @@
 ---
 
 ### **71. Tỷ lệ sinh lời cổ phiếu (Earnings Per Share - EPS)**  
-- **Công thức**: $$\text{Lợi nhuận ròng} / \text{Số cổ phiếu đang lưu hành}$$  
+- **Công thức**: \(\text{Lợi nhuận ròng} / \text{Số cổ phiếu đang lưu hành}\).  
 - **Ý nghĩa**: Đánh giá lợi nhuận mà cổ đông thu được trên mỗi cổ phiếu.  
-
+  
 ---
 
 ### **72. Chi phí cơ hội (Opportunity Cost)**  
@@ -456,7 +456,7 @@
 - Quản lý tài chính nội bộ của doanh nghiệp, bao gồm đầu tư và huy động vốn.  
 
 ### **87. Hệ số thanh toán nhanh (Quick Ratio)**  
-- **Công thức**: $$(\text{Tài sản lưu động - Hàng tồn kho}) / \text{Nợ ngắn hạn}$$  
+- **Công thức**: \((\text{Tài sản lưu động - Hàng tồn kho}) / \text{Nợ ngắn hạn}\).  
 - **Ý nghĩa**: Đánh giá khả năng thanh toán nhanh các nghĩa vụ ngắn hạn.  
 
 ### **88. Ngân quỹ dự phòng (Contingency Reserve)**  
@@ -478,7 +478,7 @@
 - Các khoản chi liên quan đến lãi vay, phí phát hành cổ phiếu hoặc trái phiếu.  
 
 ### **94. Hệ số hiệu quả sử dụng tài sản (Return on Assets - ROA)**  
-- **Công thức**: $$\text{Lợi nhuận ròng} / \text{Tổng tài sản}$$  
+- **Công thức**: \(\text{Lợi nhuận ròng} / \text{Tổng tài sản}\).  
 - **Ý nghĩa**: Đo lường khả năng sinh lời từ tài sản của doanh nghiệp.  
 
 ### **95. Tài sản lưu động nhanh (Quick Assets)**  
@@ -488,20 +488,22 @@
 - Tất cả chi phí liên quan đến lao động, bao gồm lương, bảo hiểm và phúc lợi.  
 
 ### **97. Hệ số lợi nhuận trên vốn cổ phần (Return on Equity - ROE)**  
-- **Công thức**: $$\text{Lợi nhuận ròng} / \text{Vốn chủ sở hữu}$$  
+- **Công thức**: \(\text{Lợi nhuận ròng} / \text{Vốn chủ sở hữu}\).  
 - **Ý nghĩa**: Đo lường khả năng tạo lợi nhuận từ vốn của cổ đông.  
 
 ### **98. Nợ ròng (Net Debt)**  
-- **Công thức**: $$\text{Tổng nợ} - \text{Tiền mặt và tương đương tiền mặt}$$  
+- **Công thức**: \(\text{Tổng nợ} - \text{Tiền mặt và tương đương tiền mặt}\).  
 - **Ý nghĩa**: Đánh giá mức độ nợ thực tế mà doanh nghiệp phải đối mặt.  
 
 ### **99. Giá trị hiện tại (Present Value - PV)**  
 - Giá trị hiện tại của dòng tiền tương lai, chiết khấu theo một tỷ lệ lãi suất.  
 
 ### **100. Giá trị gia tăng kinh tế (Economic Value Added - EVA)**  
-- **Công thức**: $$\text{Lợi nhuận hoạt động sau thuế} - (\text{Vốn đầu tư} \times \text{Chi phí vốn})$$  
+- **Công thức**: \(\text{Lợi nhuận hoạt động sau thuế} - (\text{Vốn đầu tư} \times \text{Chi phí vốn})\).  
 - **Ý nghĩa**: Đánh giá mức độ tạo thêm giá trị vượt chi phí vốn.  
 
+---
+ 
 # Hướng dẫn tính giá trị doanh nghiệp
 
 Dưới đây là bảng cập nhật với các thông số cần **nhập giá trị** hoặc có **công thức tính** rõ ràng. Cũng như cách bạn có thể nhập các giá trị cần thiết.

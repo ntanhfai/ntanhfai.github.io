@@ -1,0 +1,982 @@
+[
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template_string",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "Workbook",
+        "importPath": "openpyxl",
+        "description": "openpyxl",
+        "isExtraImport": true,
+        "detail": "openpyxl",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "docx.api",
+        "description": "docx.api",
+        "isExtraImport": true,
+        "detail": "docx.api",
+        "documentation": {}
+    },
+    {
+        "label": "pprint",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "exists",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "docx",
+        "description": "docx",
+        "isExtraImport": true,
+        "detail": "docx",
+        "documentation": {}
+    },
+    {
+        "label": "Inches",
+        "importPath": "docx.shared",
+        "description": "docx.shared",
+        "isExtraImport": true,
+        "detail": "docx.shared",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskForm",
+        "importPath": "flask_wtf",
+        "description": "flask_wtf",
+        "isExtraImport": true,
+        "detail": "flask_wtf",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "StringField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "SubmitField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "TextField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "Required",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PlotImages",
+        "kind": 2,
+        "importPath": "Vision.Tools.PlotImages",
+        "description": "Vision.Tools.PlotImages",
+        "peekOfCode": "def PlotImages(image_paths, n, m, output_path, final_width = 800, final_height = 600):\n    num_images = len(image_paths)\n    # if num_images < n * m:\n    #     print(\"Không đủ ảnh để hiển thị.\")\n    #     return\n    # Khởi tạo mảng để lưu trữ các ảnh\n    images = []\n    final_image = Image.new('RGB', (final_width, final_height))\n    # Tính toán kích thước của từng ảnh con trong ô gộp\n    image_width = final_width // m",
+        "detail": "Vision.Tools.PlotImages",
+        "documentation": {}
+    },
+    {
+        "label": "resize_images_in_folder",
+        "kind": 2,
+        "importPath": "Vision.Tools.resize_image_keep_ratio",
+        "description": "Vision.Tools.resize_image_keep_ratio",
+        "peekOfCode": "def resize_images_in_folder(input_folder, output_folder, max_size):\n    if not os.path.exists(output_folder):\n        os.makedirs(output_folder)\n    for filename in os.listdir(input_folder):\n        img_path = os.path.join(input_folder, filename)\n        if os.path.isfile(img_path):\n            img = Image.open(img_path)\n            img.thumbnail((max_size, max_size), Image.LANCZOS)# .ANTIALIAS)\n            img_name, img_ext = os.path.splitext(filename)\n            output_path = os.path.join(output_folder, f\"{img_name}_resized{img_ext}\")",
+        "detail": "Vision.Tools.resize_image_keep_ratio",
+        "documentation": {}
+    },
+    {
+        "label": "vid",
+        "kind": 5,
+        "importPath": "Vision.lesson01-read-cam",
+        "description": "Vision.lesson01-read-cam",
+        "peekOfCode": "vid = cv2.VideoCapture(0)\nwhile True:\n    # Chụp từng khung hình video\n    ret, frame = vid.read()\n    # Hiển thị khung kết quả\n    cv2.imshow('frame', frame)\n    # phím 'q' được đặt làm phím thoát bạn có thể sử dụng bất kỳ phím mong muốn nào\n    if cv2.waitKey(1) & 0xFF == ord('q'):\n        break\n# Sau vòng lặp, giải phóng đối tượng nắp",
+        "detail": "Vision.lesson01-read-cam",
+        "documentation": {}
+    },
+    {
+        "label": "vid",
+        "kind": 5,
+        "importPath": "Vision.lesson02-save-image",
+        "description": "Vision.lesson02-save-image",
+        "peekOfCode": "vid = cv2.VideoCapture(0)\ncnt = 0\nwhile True:\n    # Chụp từng khung hình video\n    ret, frame = vid.read()\n    # Hiển thị khung kết quả\n    cv2.imshow('frame', frame)\n    # phím 'q' được đặt làm phím thoát bạn có thể sử dụng bất kỳ phím mong muốn nào\n    key = cv2.waitKey(1)\n    if key == ord('q'):",
+        "detail": "Vision.lesson02-save-image",
+        "documentation": {}
+    },
+    {
+        "label": "cnt",
+        "kind": 5,
+        "importPath": "Vision.lesson02-save-image",
+        "description": "Vision.lesson02-save-image",
+        "peekOfCode": "cnt = 0\nwhile True:\n    # Chụp từng khung hình video\n    ret, frame = vid.read()\n    # Hiển thị khung kết quả\n    cv2.imshow('frame', frame)\n    # phím 'q' được đặt làm phím thoát bạn có thể sử dụng bất kỳ phím mong muốn nào\n    key = cv2.waitKey(1)\n    if key == ord('q'):\n        break",
+        "detail": "Vision.lesson02-save-image",
+        "documentation": {}
+    },
+    {
+        "label": "vid",
+        "kind": 5,
+        "importPath": "Vision.lesson03-save-video",
+        "description": "Vision.lesson03-save-video",
+        "peekOfCode": "vid = cv2.VideoCapture(0) # có thể thay = path của file video\nret, frame = vid.read()\nChieuCao, ChieuRong, SoKenh = frame.shape\nos.makedirs('output', exist_ok=True)\nfn = 'output/video.avi'\nfourcc = cv2.VideoWriter_fourcc('X', 'V', 'I', 'D')\nGhi_Video = cv2.VideoWriter(fn, fourcc, 20.0, (ChieuRong, ChieuCao))\nnFrame = 200\ncnt = 0\nwhile True:",
+        "detail": "Vision.lesson03-save-video",
+        "documentation": {}
+    },
+    {
+        "label": "fn",
+        "kind": 5,
+        "importPath": "Vision.lesson03-save-video",
+        "description": "Vision.lesson03-save-video",
+        "peekOfCode": "fn = 'output/video.avi'\nfourcc = cv2.VideoWriter_fourcc('X', 'V', 'I', 'D')\nGhi_Video = cv2.VideoWriter(fn, fourcc, 20.0, (ChieuRong, ChieuCao))\nnFrame = 200\ncnt = 0\nwhile True:\n    ret, frame = vid.read()\n    cv2.imshow('frame', frame)\n    # .........................................\n    # .........................................",
+        "detail": "Vision.lesson03-save-video",
+        "documentation": {}
+    },
+    {
+        "label": "fourcc",
+        "kind": 5,
+        "importPath": "Vision.lesson03-save-video",
+        "description": "Vision.lesson03-save-video",
+        "peekOfCode": "fourcc = cv2.VideoWriter_fourcc('X', 'V', 'I', 'D')\nGhi_Video = cv2.VideoWriter(fn, fourcc, 20.0, (ChieuRong, ChieuCao))\nnFrame = 200\ncnt = 0\nwhile True:\n    ret, frame = vid.read()\n    cv2.imshow('frame', frame)\n    # .........................................\n    # .........................................\n    key = cv2.waitKey(1)",
+        "detail": "Vision.lesson03-save-video",
+        "documentation": {}
+    },
+    {
+        "label": "Ghi_Video",
+        "kind": 5,
+        "importPath": "Vision.lesson03-save-video",
+        "description": "Vision.lesson03-save-video",
+        "peekOfCode": "Ghi_Video = cv2.VideoWriter(fn, fourcc, 20.0, (ChieuRong, ChieuCao))\nnFrame = 200\ncnt = 0\nwhile True:\n    ret, frame = vid.read()\n    cv2.imshow('frame', frame)\n    # .........................................\n    # .........................................\n    key = cv2.waitKey(1)\n    if key & 0xFF == ord('q'):",
+        "detail": "Vision.lesson03-save-video",
+        "documentation": {}
+    },
+    {
+        "label": "nFrame",
+        "kind": 5,
+        "importPath": "Vision.lesson03-save-video",
+        "description": "Vision.lesson03-save-video",
+        "peekOfCode": "nFrame = 200\ncnt = 0\nwhile True:\n    ret, frame = vid.read()\n    cv2.imshow('frame', frame)\n    # .........................................\n    # .........................................\n    key = cv2.waitKey(1)\n    if key & 0xFF == ord('q'):\n        break",
+        "detail": "Vision.lesson03-save-video",
+        "documentation": {}
+    },
+    {
+        "label": "cnt",
+        "kind": 5,
+        "importPath": "Vision.lesson03-save-video",
+        "description": "Vision.lesson03-save-video",
+        "peekOfCode": "cnt = 0\nwhile True:\n    ret, frame = vid.read()\n    cv2.imshow('frame', frame)\n    # .........................................\n    # .........................................\n    key = cv2.waitKey(1)\n    if key & 0xFF == ord('q'):\n        break\n    if cnt < nFrame:",
+        "detail": "Vision.lesson03-save-video",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "Vision.lesson04-draw-on-image",
+        "description": "Vision.lesson04-draw-on-image",
+        "peekOfCode": "path = r'G:\\Foxconn.AI\\AI_Libs\\Vision\\output\\0.jpg'\n# Đọc một hình ảnh ở chế độ mặc định\nimage = cv2.imread(path)\n# --------------------------------------------------------------------------\n# Bài này chỉ cần nhớ cv2.rectangle để vẽ hình chữ nhật lên ảnh là được\nTrenTrai = (100, 150)  # Tọa độ bắt đầu, ở đây (5, 5) đại diện cho góc trên cùng bên trái của hình chữ nhật\nDuoiPhai = (400, 450) # Tọa độ kết thúc, ở đây (400, 450) đại diện cho góc dưới cùng bên phải của hình chữ nhật\nMau_Sac = (255, 0, 0)  # Blue color in BGR\nKich_Co = 2  # Line thickness of 2 px\n# Sử dụng phương thức cv2.rectangle()",
+        "detail": "Vision.lesson04-draw-on-image",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": "Vision.lesson04-draw-on-image",
+        "description": "Vision.lesson04-draw-on-image",
+        "peekOfCode": "image = cv2.imread(path)\n# --------------------------------------------------------------------------\n# Bài này chỉ cần nhớ cv2.rectangle để vẽ hình chữ nhật lên ảnh là được\nTrenTrai = (100, 150)  # Tọa độ bắt đầu, ở đây (5, 5) đại diện cho góc trên cùng bên trái của hình chữ nhật\nDuoiPhai = (400, 450) # Tọa độ kết thúc, ở đây (400, 450) đại diện cho góc dưới cùng bên phải của hình chữ nhật\nMau_Sac = (255, 0, 0)  # Blue color in BGR\nKich_Co = 2  # Line thickness of 2 px\n# Sử dụng phương thức cv2.rectangle()\n# Vẽ một hình chữ nhật có đường viền màu xanh lam có độ dày 2 px\nimage = cv2.rectangle(image, TrenTrai, DuoiPhai, Mau_Sac, Kich_Co)",
+        "detail": "Vision.lesson04-draw-on-image",
+        "documentation": {}
+    },
+    {
+        "label": "TrenTrai",
+        "kind": 5,
+        "importPath": "Vision.lesson04-draw-on-image",
+        "description": "Vision.lesson04-draw-on-image",
+        "peekOfCode": "TrenTrai = (100, 150)  # Tọa độ bắt đầu, ở đây (5, 5) đại diện cho góc trên cùng bên trái của hình chữ nhật\nDuoiPhai = (400, 450) # Tọa độ kết thúc, ở đây (400, 450) đại diện cho góc dưới cùng bên phải của hình chữ nhật\nMau_Sac = (255, 0, 0)  # Blue color in BGR\nKich_Co = 2  # Line thickness of 2 px\n# Sử dụng phương thức cv2.rectangle()\n# Vẽ một hình chữ nhật có đường viền màu xanh lam có độ dày 2 px\nimage = cv2.rectangle(image, TrenTrai, DuoiPhai, Mau_Sac, Kich_Co)\n# --------------------------------------------------------------------------\nimage = cv2.rectangle(image, (10, 30), (50, 90), (0, 0, 255), 4)\n# --------------------------------------------------------------------------",
+        "detail": "Vision.lesson04-draw-on-image",
+        "documentation": {}
+    },
+    {
+        "label": "DuoiPhai",
+        "kind": 5,
+        "importPath": "Vision.lesson04-draw-on-image",
+        "description": "Vision.lesson04-draw-on-image",
+        "peekOfCode": "DuoiPhai = (400, 450) # Tọa độ kết thúc, ở đây (400, 450) đại diện cho góc dưới cùng bên phải của hình chữ nhật\nMau_Sac = (255, 0, 0)  # Blue color in BGR\nKich_Co = 2  # Line thickness of 2 px\n# Sử dụng phương thức cv2.rectangle()\n# Vẽ một hình chữ nhật có đường viền màu xanh lam có độ dày 2 px\nimage = cv2.rectangle(image, TrenTrai, DuoiPhai, Mau_Sac, Kich_Co)\n# --------------------------------------------------------------------------\nimage = cv2.rectangle(image, (10, 30), (50, 90), (0, 0, 255), 4)\n# --------------------------------------------------------------------------\n# Hiển thị hình ảnh",
+        "detail": "Vision.lesson04-draw-on-image",
+        "documentation": {}
+    },
+    {
+        "label": "Mau_Sac",
+        "kind": 5,
+        "importPath": "Vision.lesson04-draw-on-image",
+        "description": "Vision.lesson04-draw-on-image",
+        "peekOfCode": "Mau_Sac = (255, 0, 0)  # Blue color in BGR\nKich_Co = 2  # Line thickness of 2 px\n# Sử dụng phương thức cv2.rectangle()\n# Vẽ một hình chữ nhật có đường viền màu xanh lam có độ dày 2 px\nimage = cv2.rectangle(image, TrenTrai, DuoiPhai, Mau_Sac, Kich_Co)\n# --------------------------------------------------------------------------\nimage = cv2.rectangle(image, (10, 30), (50, 90), (0, 0, 255), 4)\n# --------------------------------------------------------------------------\n# Hiển thị hình ảnh\ncv2.imshow('Ten', image)",
+        "detail": "Vision.lesson04-draw-on-image",
+        "documentation": {}
+    },
+    {
+        "label": "Kich_Co",
+        "kind": 5,
+        "importPath": "Vision.lesson04-draw-on-image",
+        "description": "Vision.lesson04-draw-on-image",
+        "peekOfCode": "Kich_Co = 2  # Line thickness of 2 px\n# Sử dụng phương thức cv2.rectangle()\n# Vẽ một hình chữ nhật có đường viền màu xanh lam có độ dày 2 px\nimage = cv2.rectangle(image, TrenTrai, DuoiPhai, Mau_Sac, Kich_Co)\n# --------------------------------------------------------------------------\nimage = cv2.rectangle(image, (10, 30), (50, 90), (0, 0, 255), 4)\n# --------------------------------------------------------------------------\n# Hiển thị hình ảnh\ncv2.imshow('Ten', image)\ncv2.waitKey(0)",
+        "detail": "Vision.lesson04-draw-on-image",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": "Vision.lesson04-draw-on-image",
+        "description": "Vision.lesson04-draw-on-image",
+        "peekOfCode": "image = cv2.rectangle(image, TrenTrai, DuoiPhai, Mau_Sac, Kich_Co)\n# --------------------------------------------------------------------------\nimage = cv2.rectangle(image, (10, 30), (50, 90), (0, 0, 255), 4)\n# --------------------------------------------------------------------------\n# Hiển thị hình ảnh\ncv2.imshow('Ten', image)\ncv2.waitKey(0)\ncv2.destroyAllWindows()",
+        "detail": "Vision.lesson04-draw-on-image",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": "Vision.lesson04-draw-on-image",
+        "description": "Vision.lesson04-draw-on-image",
+        "peekOfCode": "image = cv2.rectangle(image, (10, 30), (50, 90), (0, 0, 255), 4)\n# --------------------------------------------------------------------------\n# Hiển thị hình ảnh\ncv2.imshow('Ten', image)\ncv2.waitKey(0)\ncv2.destroyAllWindows()",
+        "detail": "Vision.lesson04-draw-on-image",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "Vision.lesson05-write-text-on-image",
+        "description": "Vision.lesson05-write-text-on-image",
+        "peekOfCode": "path = r'G:\\Foxconn.AI\\AI_Libs\\Vision\\output\\0.jpg'\n# Đọc một hình ảnh ở chế độ mặc định\nimage = cv2.imread(path)\n# --------------------------------------------------------------------------\n# Bài này chỉ cần nhớ cv2.putText để viết chữ lên ảnh là được.\n# Viết 1 xâu:\nfont        = cv2.FONT_HERSHEY_SIMPLEX\nToa_Do      = (10, 50)\nCo_Chu      = 1\nMau_Sac     = (255, 0, 255)",
+        "detail": "Vision.lesson05-write-text-on-image",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": "Vision.lesson05-write-text-on-image",
+        "description": "Vision.lesson05-write-text-on-image",
+        "peekOfCode": "image = cv2.imread(path)\n# --------------------------------------------------------------------------\n# Bài này chỉ cần nhớ cv2.putText để viết chữ lên ảnh là được.\n# Viết 1 xâu:\nfont        = cv2.FONT_HERSHEY_SIMPLEX\nToa_Do      = (10, 50)\nCo_Chu      = 1\nMau_Sac     = (255, 0, 255)\nKich_Co     = 2\nKieu_Net_Ve = 2",
+        "detail": "Vision.lesson05-write-text-on-image",
+        "documentation": {}
+    },
+    {
+        "label": "Kieu_Net_Ve",
+        "kind": 5,
+        "importPath": "Vision.lesson05-write-text-on-image",
+        "description": "Vision.lesson05-write-text-on-image",
+        "peekOfCode": "Kieu_Net_Ve = 2\ncv2.putText(image,'Hello World!', Toa_Do, font, Co_Chu, Mau_Sac, Kich_Co, Kieu_Net_Ve)\n# --------------------------------------------------------------------------\ncv2.putText(image,'Day la noi dung', (300, 150), cv2.FONT_HERSHEY_SIMPLEX, 1, (255,0,0), 2, 2)\n# --------------------------------------------------------------------------\ncv2.imshow('window_name', image)\ncv2.waitKey(0)\ncv2.destroyAllWindows()",
+        "detail": "Vision.lesson05-write-text-on-image",
+        "documentation": {}
+    },
+    {
+        "label": "fnRotateImage_type1",
+        "kind": 2,
+        "importPath": "Vision.lesson06-Image-Processing",
+        "description": "Vision.lesson06-Image-Processing",
+        "peekOfCode": "def fnRotateImage_type1(image, angle):\n    # ...\n    return image\ndef fnRotateImage_type2(image, angle):\n    # ...\n    return image\n2. Crop ảnh:\nNhập vào tọa độ x1,y1,x2,y2 trả về image trong vùng ảnh đó\nMẫu:\ndef fnCrop(image, x1,y1,x2,y2):",
+        "detail": "Vision.lesson06-Image-Processing",
+        "documentation": {}
+    },
+    {
+        "label": "fnRotateImage_type2",
+        "kind": 2,
+        "importPath": "Vision.lesson06-Image-Processing",
+        "description": "Vision.lesson06-Image-Processing",
+        "peekOfCode": "def fnRotateImage_type2(image, angle):\n    # ...\n    return image\n2. Crop ảnh:\nNhập vào tọa độ x1,y1,x2,y2 trả về image trong vùng ảnh đó\nMẫu:\ndef fnCrop(image, x1,y1,x2,y2):\n    imgCrop=\n    return imgCrop\n3. Tách màu, chuyển hệ màu",
+        "detail": "Vision.lesson06-Image-Processing",
+        "documentation": {}
+    },
+    {
+        "label": "fnCrop",
+        "kind": 2,
+        "importPath": "Vision.lesson06-Image-Processing",
+        "description": "Vision.lesson06-Image-Processing",
+        "peekOfCode": "def fnCrop(image, x1,y1,x2,y2):\n    imgCrop=\n    return imgCrop\n3. Tách màu, chuyển hệ màu\nViết hàm chuyển màu từ hệ màu BRG sang HSL, đầu vào là image, đầu ra là 3 kênh màu của ảnh đó: H, S, L\nMẫu:\ndef fnBRG_2HSL(image):\n    return H,S,L\n\"\"\"\nimport cv2",
+        "detail": "Vision.lesson06-Image-Processing",
+        "documentation": {}
+    },
+    {
+        "label": "fnBRG_2HSL",
+        "kind": 2,
+        "importPath": "Vision.lesson06-Image-Processing",
+        "description": "Vision.lesson06-Image-Processing",
+        "peekOfCode": "def fnBRG_2HSL(image):\n    return H,S,L\n\"\"\"\nimport cv2\ndef fnRotateImage_type1(image, angle, a=1):\n    # ...\n    return image\ndef fnRotateImage_type2(image, angle):\n    # ...\n    return image",
+        "detail": "Vision.lesson06-Image-Processing",
+        "documentation": {}
+    },
+    {
+        "label": "fnRotateImage_type1",
+        "kind": 2,
+        "importPath": "Vision.lesson06-Image-Processing",
+        "description": "Vision.lesson06-Image-Processing",
+        "peekOfCode": "def fnRotateImage_type1(image, angle, a=1):\n    # ...\n    return image\ndef fnRotateImage_type2(image, angle):\n    # ...\n    return image\ndef fnCrop(image, x1, y1, x2, y2):\n    imgCrop = image[y1:y2, x1:x2]\n    return imgCrop\ndef fnBRG_2HSL(imageBGR):",
+        "detail": "Vision.lesson06-Image-Processing",
+        "documentation": {}
+    },
+    {
+        "label": "fnRotateImage_type2",
+        "kind": 2,
+        "importPath": "Vision.lesson06-Image-Processing",
+        "description": "Vision.lesson06-Image-Processing",
+        "peekOfCode": "def fnRotateImage_type2(image, angle):\n    # ...\n    return image\ndef fnCrop(image, x1, y1, x2, y2):\n    imgCrop = image[y1:y2, x1:x2]\n    return imgCrop\ndef fnBRG_2HSL(imageBGR):\n    H, S, L = 1, 1, 1\n    return H, S, L\nif __name__ == \"__main__\":",
+        "detail": "Vision.lesson06-Image-Processing",
+        "documentation": {}
+    },
+    {
+        "label": "fnCrop",
+        "kind": 2,
+        "importPath": "Vision.lesson06-Image-Processing",
+        "description": "Vision.lesson06-Image-Processing",
+        "peekOfCode": "def fnCrop(image, x1, y1, x2, y2):\n    imgCrop = image[y1:y2, x1:x2]\n    return imgCrop\ndef fnBRG_2HSL(imageBGR):\n    H, S, L = 1, 1, 1\n    return H, S, L\nif __name__ == \"__main__\":\n    imPath = '...'\n    image = cv2.imread(imPath)\n    test = 1",
+        "detail": "Vision.lesson06-Image-Processing",
+        "documentation": {}
+    },
+    {
+        "label": "fnBRG_2HSL",
+        "kind": 2,
+        "importPath": "Vision.lesson06-Image-Processing",
+        "description": "Vision.lesson06-Image-Processing",
+        "peekOfCode": "def fnBRG_2HSL(imageBGR):\n    H, S, L = 1, 1, 1\n    return H, S, L\nif __name__ == \"__main__\":\n    imPath = '...'\n    image = cv2.imread(imPath)\n    test = 1\n    if test == 1:\n        im1 = fnRotateImage_type1(image, angle=30.5)\n        cv2.imshow('fnRotateImage_type1', im1)",
+        "detail": "Vision.lesson06-Image-Processing",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson01__Flask_basic_01",
+        "description": "Web-System-Tools.Lesson01__Flask_basic_01",
+        "peekOfCode": "def hello():\n    return render_template('index.html', utc_dt=datetime.datetime.utcnow())\n@app.route('/handle_data', methods=['POST'])\ndef handle_data():\n    projectpath = request.form['txtName']\n    # your code\n    # return a response\n    print(projectpath)\n    return f'<h1>Send: {projectpath}</h1>'\nif __name__ == '__main__':",
+        "detail": "Web-System-Tools.Lesson01__Flask_basic_01",
+        "documentation": {}
+    },
+    {
+        "label": "handle_data",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson01__Flask_basic_01",
+        "description": "Web-System-Tools.Lesson01__Flask_basic_01",
+        "peekOfCode": "def handle_data():\n    projectpath = request.form['txtName']\n    # your code\n    # return a response\n    print(projectpath)\n    return f'<h1>Send: {projectpath}</h1>'\nif __name__ == '__main__':\n    from gevent.pywsgi import WSGIServer\n    # Debug/Development\n    app.run(debug=True, host=\"0.0.0.0\", port=\"5000\")",
+        "detail": "Web-System-Tools.Lesson01__Flask_basic_01",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson01__Flask_basic_01",
+        "description": "Web-System-Tools.Lesson01__Flask_basic_01",
+        "peekOfCode": "app = Flask(__name__)\n# -------- Prepair -----------------------------------------\nos.makedirs('templates', exist_ok=True)\ns = \"\"\"\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>FlaskApp</title>\n</head>",
+        "detail": "Web-System-Tools.Lesson01__Flask_basic_01",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson01__Flask_basic_01",
+        "description": "Web-System-Tools.Lesson01__Flask_basic_01",
+        "peekOfCode": "s = \"\"\"\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>FlaskApp</title>\n</head>\n<body>\n    <h1>Hello World!</h1>\n    <h2>Welcome to FlaskApp!</h2>",
+        "detail": "Web-System-Tools.Lesson01__Flask_basic_01",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson01__Flask_basic_02",
+        "description": "Web-System-Tools.Lesson01__Flask_basic_02",
+        "peekOfCode": "def index(): #khai báo hàm cho url vừa định danh\n    return render_template('index.html') #render ra file html trong thư mục templates\nif __name__ == '__main__': #khai báo hàm main\n    app.run(debug=True, port=5000, host='0.0.0.0') #khởi chạy hệ thống. ở đây thì cổng port là 1221 (mặc định là 5000)",
+        "detail": "Web-System-Tools.Lesson01__Flask_basic_02",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson01__Flask_basic_02",
+        "description": "Web-System-Tools.Lesson01__Flask_basic_02",
+        "peekOfCode": "app = Flask(__name__) #Khai báo khởi tạo hệ thống\n@app.route('/') #định danh url cho hệ thống\ndef index(): #khai báo hàm cho url vừa định danh\n    return render_template('index.html') #render ra file html trong thư mục templates\nif __name__ == '__main__': #khai báo hàm main\n    app.run(debug=True, port=5000, host='0.0.0.0') #khởi chạy hệ thống. ở đây thì cổng port là 1221 (mặc định là 5000)",
+        "detail": "Web-System-Tools.Lesson01__Flask_basic_02",
+        "documentation": {}
+    },
+    {
+        "label": "upload",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson02__Flask_Upload_File",
+        "description": "Web-System-Tools.Lesson02__Flask_Upload_File",
+        "peekOfCode": "def upload():  # khai báo hàm cho url vừa định danh\n    if request.method == 'POST':\n        file = request.files['file1']  # hàm này lấy tất cả thông tin từ tag input:file theo 'name'\n        # ngoài ra để lấy tất cả thông tin từ tag khác thì dùng request.form['<name>']. <name>: name của tag cần lấy dữ liệu\n        upload_dir = f\"data/ProjectName/{request.environ['REMOTE_ADDR']}\"\n        os.makedirs(upload_dir, exist_ok=True)\n        objects = os.listdir(upload_dir)\n        files_file = [f for f in objects if os.path.isfile(os.path.join(upload_dir, f))]\n        for f in files_file:\n            os.remove(os.path.join(upload_dir, f))",
+        "detail": "Web-System-Tools.Lesson02__Flask_Upload_File",
+        "documentation": {}
+    },
+    {
+        "label": "sss",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson02__Flask_Upload_File",
+        "description": "Web-System-Tools.Lesson02__Flask_Upload_File",
+        "peekOfCode": "sss = \"\"\"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <!-- Đoạn này không cần thuộc, hiểu là được -->\n    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css\">\n    <script src=\"https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js\"></script>",
+        "detail": "Web-System-Tools.Lesson02__Flask_Upload_File",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson02__Flask_Upload_File",
+        "description": "Web-System-Tools.Lesson02__Flask_Upload_File",
+        "peekOfCode": "app = Flask(__name__)  # Khai báo khởi tạo hệ thống\n@app.route('/', methods=['GET', 'POST'])  # định danh url cho hệ thống\ndef upload():  # khai báo hàm cho url vừa định danh\n    if request.method == 'POST':\n        file = request.files['file1']  # hàm này lấy tất cả thông tin từ tag input:file theo 'name'\n        # ngoài ra để lấy tất cả thông tin từ tag khác thì dùng request.form['<name>']. <name>: name của tag cần lấy dữ liệu\n        upload_dir = f\"data/ProjectName/{request.environ['REMOTE_ADDR']}\"\n        os.makedirs(upload_dir, exist_ok=True)\n        objects = os.listdir(upload_dir)\n        files_file = [f for f in objects if os.path.isfile(os.path.join(upload_dir, f))]",
+        "detail": "Web-System-Tools.Lesson02__Flask_Upload_File",
+        "documentation": {}
+    },
+    {
+        "label": "Save_Excel",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson03__Office-Excel",
+        "description": "Web-System-Tools.Lesson03__Office-Excel",
+        "peekOfCode": "def Save_Excel():\n    workbook = Workbook()\n    sheet = workbook.active\n    sheet[\"A1\"] = \"hello\"\n    sheet[\"B1\"] = \"world!\"\n    workbook.save(filename=\"data/myfile.xlsx\")\ndef Read_Excel():\n    from openpyxl import load_workbook\n    workbook = load_workbook(filename=\"data/myfile.xlsx\")\n    print(workbook.sheetnames)",
+        "detail": "Web-System-Tools.Lesson03__Office-Excel",
+        "documentation": {}
+    },
+    {
+        "label": "Read_Excel",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson03__Office-Excel",
+        "description": "Web-System-Tools.Lesson03__Office-Excel",
+        "peekOfCode": "def Read_Excel():\n    from openpyxl import load_workbook\n    workbook = load_workbook(filename=\"data/myfile.xlsx\")\n    print(workbook.sheetnames)\n    # ['Sheet 1']\n    sheet = workbook.active\n    print(sheet)\n    # < Worksheet; \"Sheet 1\" >\n    print(sheet.title)\nif __name__ == \"__main__\":",
+        "detail": "Web-System-Tools.Lesson03__Office-Excel",
+        "documentation": {}
+    },
+    {
+        "label": "Read_DOCx",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson03__Office-Word",
+        "description": "Web-System-Tools.Lesson03__Office-Word",
+        "peekOfCode": "def Read_DOCx():\n    # Tải bảng đầu tiên từ tài liệu\n    document = Document('data/demo.docx')\n    table = document.tables[0]  # 0, 1, 2,... là số thứ tự của table trong file word\n    # Dữ liệu sẽ là danh sách các hàng được biểu diễn dưới dạng từ điển\n    # chứa dữ liệu của mỗi hàng.\n    data = []\n    keys = None\n    for i, row in enumerate(table.rows):\n        text = (cell.text for cell in row.cells)",
+        "detail": "Web-System-Tools.Lesson03__Office-Word",
+        "documentation": {}
+    },
+    {
+        "label": "Write_Docx",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson03__Office-Word",
+        "description": "Web-System-Tools.Lesson03__Office-Word",
+        "peekOfCode": "def Write_Docx():\n    \"\"\"\n    Đây là đoạn chương trình tạo một file word, thêm các thông tin vào và lưu thành tệp\n    Để chạy được bài này, cần có một thư mục `data`, trong đó có một tấm ảnh có tên image.png trong thư mục data: data/image.png\n    \"\"\"\n    mDoc = Document()\n    mDoc.add_heading('Tiêu đề', 0)\n    p = mDoc.add_paragraph('Đây là một đoạn văn bản gồm có các kiểu chữ ')\n    p.add_run('bold').bold = True\n    p.add_run(' và ')",
+        "detail": "Web-System-Tools.Lesson03__Office-Word",
+        "documentation": {}
+    },
+    {
+        "label": "students",
+        "kind": 6,
+        "importPath": "Web-System-Tools.Lesson04__DataBase",
+        "description": "Web-System-Tools.Lesson04__DataBase",
+        "peekOfCode": "class students(db.Model):\n    id = db.Column('student_id', db.Integer, primary_key=True)\n    name = db.Column(db.String(100))\n    city = db.Column(db.String(50))\n    addr = db.Column(db.String(200))\n    pin = db.Column(db.String(10))\n    def __init__(self, name, city, addr, pin):\n        self.name = name\n        self.city = city\n        self.addr = addr",
+        "detail": "Web-System-Tools.Lesson04__DataBase",
+        "documentation": {}
+    },
+    {
+        "label": "show_all",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson04__DataBase",
+        "description": "Web-System-Tools.Lesson04__DataBase",
+        "peekOfCode": "def show_all():\n    return render_template('show_all.html', students=students.query.all())\n@app.route('/new', methods=['GET', 'POST'])\ndef new():\n    if request.method == 'POST':\n        if not request.form['name'] or not request.form['city'] or not request.form['addr']:\n            flash('Please enter all the fields', 'error')\n        else:\n            student = students(request.form['name'], request.form['city'], request.form['addr'], request.form['pin'])\n            db.session.add(student)",
+        "detail": "Web-System-Tools.Lesson04__DataBase",
+        "documentation": {}
+    },
+    {
+        "label": "new",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson04__DataBase",
+        "description": "Web-System-Tools.Lesson04__DataBase",
+        "peekOfCode": "def new():\n    if request.method == 'POST':\n        if not request.form['name'] or not request.form['city'] or not request.form['addr']:\n            flash('Please enter all the fields', 'error')\n        else:\n            student = students(request.form['name'], request.form['city'], request.form['addr'], request.form['pin'])\n            db.session.add(student)\n            db.session.commit()\n            flash('Record was successfully added')\n            return redirect(url_for('show_all'))",
+        "detail": "Web-System-Tools.Lesson04__DataBase",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson04__DataBase",
+        "description": "Web-System-Tools.Lesson04__DataBase",
+        "peekOfCode": "app = Flask(__name__)\napp.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///students.sqlite3'\napp.config['SECRET_KEY'] = \"random string\"\ndb = SQLAlchemy(app)\n# ---Prepair ------------------------------------------------------------\nsss = \"\"\"\n<!DOCTYPE html>\n<html lang = \"en\">\n   <head></head>\n   <body>",
+        "detail": "Web-System-Tools.Lesson04__DataBase",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson04__DataBase",
+        "description": "Web-System-Tools.Lesson04__DataBase",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///students.sqlite3'\napp.config['SECRET_KEY'] = \"random string\"\ndb = SQLAlchemy(app)\n# ---Prepair ------------------------------------------------------------\nsss = \"\"\"\n<!DOCTYPE html>\n<html lang = \"en\">\n   <head></head>\n   <body>\n      <h3>",
+        "detail": "Web-System-Tools.Lesson04__DataBase",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SECRET_KEY']",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson04__DataBase",
+        "description": "Web-System-Tools.Lesson04__DataBase",
+        "peekOfCode": "app.config['SECRET_KEY'] = \"random string\"\ndb = SQLAlchemy(app)\n# ---Prepair ------------------------------------------------------------\nsss = \"\"\"\n<!DOCTYPE html>\n<html lang = \"en\">\n   <head></head>\n   <body>\n      <h3>\n         <a href = \"{{ url_for('show_all') }}\">Comments - Flask ",
+        "detail": "Web-System-Tools.Lesson04__DataBase",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson04__DataBase",
+        "description": "Web-System-Tools.Lesson04__DataBase",
+        "peekOfCode": "db = SQLAlchemy(app)\n# ---Prepair ------------------------------------------------------------\nsss = \"\"\"\n<!DOCTYPE html>\n<html lang = \"en\">\n   <head></head>\n   <body>\n      <h3>\n         <a href = \"{{ url_for('show_all') }}\">Comments - Flask \n            SQLAlchemy example</a>",
+        "detail": "Web-System-Tools.Lesson04__DataBase",
+        "documentation": {}
+    },
+    {
+        "label": "sss",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson04__DataBase",
+        "description": "Web-System-Tools.Lesson04__DataBase",
+        "peekOfCode": "sss = \"\"\"\n<!DOCTYPE html>\n<html lang = \"en\">\n   <head></head>\n   <body>\n      <h3>\n         <a href = \"{{ url_for('show_all') }}\">Comments - Flask \n            SQLAlchemy example</a>\n      </h3>\n      <hr/>",
+        "detail": "Web-System-Tools.Lesson04__DataBase",
+        "documentation": {}
+    },
+    {
+        "label": "sss1",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson04__DataBase",
+        "description": "Web-System-Tools.Lesson04__DataBase",
+        "peekOfCode": "sss1 = \"\"\"\n<!DOCTYPE html>\n<html>\n   <body>\n      <h3>Students - Flask SQLAlchemy example</h3>\n      <hr/>\n      {%- for category, message in get_flashed_messages(with_categories = true) %}\n         <div class = \"alert alert-danger\">\n            {{ message }}\n         </div>",
+        "detail": "Web-System-Tools.Lesson04__DataBase",
+        "documentation": {}
+    },
+    {
+        "label": "CreatePostForm",
+        "kind": 6,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "class CreatePostForm(FlaskForm):\n    \"\"\"\n    The form used to create a blog post\n    \"\"\"\n    title = StringField('Title', validators=[Required()])\n    text = TextField('Text', validators=[Required()])\n    submit = SubmitField('Submit')\n# Create the Models\nclass Post(db.Model):\n    __tablename__ = 'posts'",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "class Post(db.Model):\n    __tablename__ = 'posts'\n    id = db.Column(db.Integer(), primary_key=True)\n    title = db.Column(db.String(100))\n    text = db.Column(db.Text())\n    likes = db.relationship('PostLike')\n    @classmethod\n    def all(cls):\n        \"\"\"\n        Returns all researcher items from the database",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "PostLike",
+        "kind": 6,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "class PostLike(db.Model):\n    __tablename__ = 'post_likes'\n    id = db.Column(db.Integer(), primary_key=True)\n    post_id = db.Column(db.Integer(), db.ForeignKey('posts.id'))\n    user_id = db.Column(db.Integer(), db.ForeignKey('users.id'))\n    users = db.relationship('User')\nclass User(db.Model):\n    __tablename__ = 'users'\n    id = db.Column(db.Integer(), primary_key=True)\n    name = db.Column(db.String(100))",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "class User(db.Model):\n    __tablename__ = 'users'\n    id = db.Column(db.Integer(), primary_key=True)\n    name = db.Column(db.String(100))\n    def __repr__(self):\n        return self.name\n    @classmethod\n    def get_random(cls):\n        user = db.session.query(cls).order_by(func.random()).first()\n        return user.id",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "page_not_found",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "def page_not_found(e):\n    return render_template_string(error_template, status_code=404), 404\n@app.errorhandler(500)\ndef server_error(e):\n    return render_template_string(error_template, status_code=500), 500\n# Create the routes\n@blog.route('/', methods=['GET'])\ndef index():\n    posts = Post.all()\n    return render_template_string(index_template, posts=posts)",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "server_error",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "def server_error(e):\n    return render_template_string(error_template, status_code=500), 500\n# Create the routes\n@blog.route('/', methods=['GET'])\ndef index():\n    posts = Post.all()\n    return render_template_string(index_template, posts=posts)\n@blog.route('/create', methods=['GET', 'POST'])\ndef create_post():\n    form = CreatePostForm(request.form)",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "def index():\n    posts = Post.all()\n    return render_template_string(index_template, posts=posts)\n@blog.route('/create', methods=['GET', 'POST'])\ndef create_post():\n    form = CreatePostForm(request.form)\n    if form.validate_on_submit():\n        post = Post(title=form.title.data,\n                    text=form.text.data)\n        db.session.add(post)",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "create_post",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "def create_post():\n    form = CreatePostForm(request.form)\n    if form.validate_on_submit():\n        post = Post(title=form.title.data,\n                    text=form.text.data)\n        db.session.add(post)\n        db.session.commit()\n        return redirect(url_for('blog.index'))\n    return render_template_string(create_post_template, form=form)\n@blog.route('/like/<int:post_id>')",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "like_post",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "def like_post(post_id):\n    post = db.session.query(Post).get(post_id)\n    user = db.session.query(User).get(1)\n    post_like = db.session.query(PostLike).filter(PostLike.user_id == user.id).first()\n    if post_like:\n        # A post was found with that user so redirect back.\n        # We would typically flash a message giving an error.\n        return redirect(url_for('index'))\n    else:\n        post_like = PostLike(post_id=post.id,",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "create_and_seed_db",
+        "kind": 2,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "def create_and_seed_db():\n    db.create_all()\n    for x in range(10):\n        user = User(name='user' + str(x))\n        db.session.add(user)\n    db.session.commit()\n    return\nif __name__ == '__main__':\n    # This will create the database if it doesn't already exist.\n    if os.path.exists(app.config['SQLALCHEMY_DATABASE_URI'].split('///')[1]):",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_PATH",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "BASE_PATH = os.path.abspath(os.path.dirname(__file__))\nsettings = {\n    'SECRET_KEY': 'super not secure development key',\n    'DEBUG': True,\n    'SQLALCHEMY_TRACK_MODIFICATIONS': False,\n    'SQLALCHEMY_DATABASE_URI': 'sqlite:///' + os.path.join(BASE_PATH,\n                                                           'posts.db'),\n    'SQLALCHEMY_ECHO': True\n}\napp = Flask(__name__)",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "settings = {\n    'SECRET_KEY': 'super not secure development key',\n    'DEBUG': True,\n    'SQLALCHEMY_TRACK_MODIFICATIONS': False,\n    'SQLALCHEMY_DATABASE_URI': 'sqlite:///' + os.path.join(BASE_PATH,\n                                                           'posts.db'),\n    'SQLALCHEMY_ECHO': True\n}\napp = Flask(__name__)\ndb = SQLAlchemy(app)",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "app = Flask(__name__)\ndb = SQLAlchemy(app)\napp.config.update(settings)\nblog = Blueprint('blog', __name__)\n# The following are template strings which contain html with jinja tags.\n# Jinja2 is a template language which uses a specific tags within text that can\n# parse text and execute python code.\n# The index template string for the main page\nindex_template = '''\n{% if posts %}",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "db = SQLAlchemy(app)\napp.config.update(settings)\nblog = Blueprint('blog', __name__)\n# The following are template strings which contain html with jinja tags.\n# Jinja2 is a template language which uses a specific tags within text that can\n# parse text and execute python code.\n# The index template string for the main page\nindex_template = '''\n{% if posts %}\n    <table class=\"posts-table\">",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "blog",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "blog = Blueprint('blog', __name__)\n# The following are template strings which contain html with jinja tags.\n# Jinja2 is a template language which uses a specific tags within text that can\n# parse text and execute python code.\n# The index template string for the main page\nindex_template = '''\n{% if posts %}\n    <table class=\"posts-table\">\n        <thead>\n            <tr>",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "index_template",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "index_template = '''\n{% if posts %}\n    <table class=\"posts-table\">\n        <thead>\n            <tr>\n                <th>ID</th>\n                <th>title</th>\n                <th>likes</th>\n                <th>like?</th>\n            </tr>",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "create_post_template",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "create_post_template = '''\n<form action=\"{{ url_for('blog.create_post') }}\" method=\"POST\" name=\"post_form\">\n    {{ form.csrf_token }}\n    {{ form.title.label }}\n    {{ form.title }}\n    {{ form.text.label }}\n    {{ form.text }}\n    {{ form.submit() }}\n</form>\n'''",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    },
+    {
+        "label": "error_template",
+        "kind": 5,
+        "importPath": "Web-System-Tools.Lesson05__Web_Database_form",
+        "description": "Web-System-Tools.Lesson05__Web_Database_form",
+        "peekOfCode": "error_template = '''\n<div id=\"error\">\n    <h1> Sorry, there was an error</h1>\n    <p>Error:# {{ status_code }}</p>\n</div>\n'''\n# Create the form\nclass CreatePostForm(FlaskForm):\n    \"\"\"\n    The form used to create a blog post",
+        "detail": "Web-System-Tools.Lesson05__Web_Database_form",
+        "documentation": {}
+    }
+]
