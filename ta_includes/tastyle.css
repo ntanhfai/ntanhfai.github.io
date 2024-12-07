@@ -36,7 +36,7 @@ a:after {
 }
 
 body {
-    background: #45494e;
+    /* background: #45494e; */
     font-family: "Varela Round", Nunito, Montserrat, sans-serif;
     margin: 0;
     padding: 0;
@@ -195,7 +195,7 @@ body {
 
     .menu {
         margin: 0;
-        margin-top: 40vh;
+        margin-top: 0;
     }
 
     .menu>ol {
