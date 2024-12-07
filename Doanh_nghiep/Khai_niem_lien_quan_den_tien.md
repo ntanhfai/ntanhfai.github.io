@@ -4,7 +4,7 @@
 </script>
 
 <link rel="stylesheet" href="/ta_includes/tastyle.css">
-{% include "ta_includes/tamenu.html" %}
+{% include "tamenu.html" %}
 -----------------------------------------------------------------
 ## Links:
 - [Go Home](https://ntanhfai.github.io/)
