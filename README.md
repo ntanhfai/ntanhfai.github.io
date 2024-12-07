@@ -1,9 +1,8 @@
 # Các nội dung quan trọng
 
-# Kho Download các Tools cần thiết cho làm việc
-
-Link Download [Tại đây](https://github.com/ntanhfai/ntanhfai.github.io/releases)
-
+## Menu
+- Kho Download các Tools cần thiết cho làm việc [Tại đây](https://github.com/ntanhfai/ntanhfai.github.io/releases)
+- [Kinh tế doanh nghiệp](Doanh_nghiep/Khai_niem_lien_quan_den_tien.md)
 
 ## Apps-Tools-Competed Code
 - [RTSP_Server_from_videos](https://ntanhfai.github.io/RTSP_Server_from_videos/)
