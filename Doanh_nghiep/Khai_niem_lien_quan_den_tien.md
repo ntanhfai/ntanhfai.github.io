@@ -562,4 +562,4 @@ Dưới đây là bảng cập nhật với các thông số cần **nhập giá
 
 ---
 
-Với cách này, bạn có thể nhập thông số vào bảng, hệ thống sẽ tự động tính toán kết quả của các chỉ số tài chính còn lại.
+Với cách này, bạn có thể nhập thông số vào bảng, (hệ thống sẽ tự động) tính toán kết quả của các chỉ số tài chính còn lại.
