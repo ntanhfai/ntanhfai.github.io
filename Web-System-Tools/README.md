@@ -1,6 +1,9 @@
 
 # Bài học: chuẩn bị cho các bài học tiếp theo.
 
+<link rel="stylesheet" href="/ta_includes/tastyle.css">
+{% include tamenu.html param='value' param2='value' %} 
+
 
 ## Links:
 - [Go Home](https://ntanhfai.github.io/)

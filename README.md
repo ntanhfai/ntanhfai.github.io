@@ -1,5 +1,9 @@
 # Các nội dung quan trọng
 
+<link rel="stylesheet" href="/ta_includes/tastyle.css">
+{% include tamenu.html param='value' param2='value' %} 
+
+
 ## Menu
 - Kho Download các Tools cần thiết cho làm việc [Tại đây](https://github.com/ntanhfai/ntanhfai.github.io/releases)
 - [Kinh tế doanh nghiệp](Doanh_nghiep/Khai_niem_lien_quan_den_tien.md)
