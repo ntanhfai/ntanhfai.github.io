@@ -3,7 +3,7 @@
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-<link rel="stylesheet" href="ta_includes/tastyle.css">
+<link rel="stylesheet" href="/ta_includes/tastyle.css">
  
 {% include tamenu.html param='value' param2='value' %} 
 -----------------------------------------------------------------
