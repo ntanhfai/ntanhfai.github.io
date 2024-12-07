@@ -279,7 +279,7 @@
 
 ### **46. Hệ số vòng quay tài sản (Asset Turnover Ratio)**  
 - Đo lường hiệu quả sử dụng tài sản để tạo doanh thu:  
-  \[ \text{Asset Turnover} = \text{Doanh thu thuần} / \text{Tổng tài sản} \].  
+  $$ \text{Asset Turnover} = \text{Doanh thu thuần} / \text{Tổng tài sản} $$  
 
 ---
 
