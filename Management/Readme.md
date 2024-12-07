@@ -1,6 +1,3 @@
---- 
-title: PM's Lesson path
----
 
 # Quản lý hệ thống - Quản lý phần mềm - Quản lý dự án
 

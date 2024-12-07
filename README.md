@@ -1,7 +1,3 @@
----
-title: AI Department's Home
----
-
 # Các nội dung quan trọng
 
 ## Menu

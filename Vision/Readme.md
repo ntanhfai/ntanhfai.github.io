@@ -1,6 +1,3 @@
---- 
-title: AI Vision's Lesson path
----
 
 # Bài học: chuẩn bị cho các bài học tiếp theo.
 
