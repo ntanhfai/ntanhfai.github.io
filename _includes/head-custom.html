@@ -6,3 +6,55 @@
         font-size: 1.1rem;
     }
 </style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<style>
+  .full-width {
+  width: 100vw; /* Viewport width */
+  margin: 0;    /* Remove default margin */
+}
+
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Create a new div element for the menu
+    var menu = document.createElement("div");
+    menu.innerHTML = `
+
+<div class="full-width">
+<nav class="menu">
+  <ol>
+    <li class="menu-item"><a href="/">Home</a></li>
+    <li class="menu-item"><a href="https://aisolutions.vn/">Aisolutions.vn</a></li>
+
+    <li class="menu-item">
+      <a href="#0">PM</a>
+      <ol class="sub-menu">
+        <li class="menu-item"><a href="/Management">Project Managerments Basic</a></li> 
+      </ol>
+    </li>
+
+    <li class="menu-item">
+      <a href="#0">Vision</a>
+      <ol class="sub-menu">
+        <li class="menu-item"><a href="/Vision">Vision Basic</a></li> 
+      </ol>
+    </li>
+    
+    <li class="menu-item">
+      <a href="#0">Web System</a>
+      <ol class="sub-menu">
+        <li class="menu-item"><a href="/Web-System-Tools">Web System Basic</a></li> 
+      </ol>
+    </li>
+
+    <li class="menu-item"><a href="/about.md">Contact</a></li>
+  </ol>
+</nav>
+</div>
+
+    `;
+
+    // Insert the menu right after the <body> tag
+    document.body.insertAdjacentElement('afterbegin', menu);
+});
+</script>
