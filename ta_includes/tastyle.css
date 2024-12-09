@@ -133,7 +133,7 @@ body {
 }
 
 .menu>ol>li:after {
-    background: #3c3c3c;
+    background: #f5f2d7;
     content: "";
     position: absolute;
     left: 0;
@@ -258,7 +258,7 @@ body {
 
 
 .main-content {
-    max-width: 100%;
+    max-width: 100% important!;
     padding: 2rem 6rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
