@@ -246,7 +246,7 @@ body {
         display: inline-block;
         margin-left: -5px;
         vertical-align: top;
-        width: 120px;
+        width: 10%;
     }
 
     .menu>ol>li:hover:after,
