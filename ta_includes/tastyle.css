@@ -52,7 +52,8 @@ body {
     padding: 0;
     margin-top: 0px;
     margin-bottom: 0px;
-    background: #3c3c3c;
+    background: transparent;
+    /* background: #3c3c3c; */
 }
 
 .menu>ol>li {
