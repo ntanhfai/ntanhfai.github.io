@@ -14,18 +14,30 @@
 }
 </style>
 
-
-<script>
-        document.addEventListener("DOMContentLoaded", function() {
-            fetch('/ta_includes/tamenu.html')
-                .then(response => response.text())
-                .then(data => {
-                    const body = document.querySelector('body');
-                    body.insertAdjacentHTML('afterbegin', data);
-                })
-                .catch(error => console.error('Error loading menu:', error));
-        });
-    </script>
-
-<script>
  
+
+<script>
+      // Function to load the menu
+      function loadMenu() {
+          fetch('/ta_includes/tamenu.html')
+              .then(response => response.text())
+              .then(data => {
+                  // Create a temporary div to hold the menu content
+                  const tempDiv = document.createElement('div');
+                  tempDiv.innerHTML = data;
+
+                  // Get the menu element
+                  const menu = tempDiv.firstElementChild;
+
+                  // Get the content div
+                  const contentDiv = document.getElementById('content');
+
+                  // Insert the menu before the content div
+                  contentDiv.parentNode.insertBefore(menu, contentDiv);
+              })
+              .catch(error => console.error('Error loading menu:', error));
+      }
+
+      // Load the menu when the page loads
+      window.onload = loadMenu;
+  </script>
