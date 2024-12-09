@@ -2,8 +2,6 @@
 # Bài học: chuẩn bị cho các bài học tiếp theo.
  
 
-## Links:
-- [Go Home](https://ntanhfai.github.io/)
 
 ## Nội dung
 Link GitHub của lớp AI-Class: [Tại đây](https://github.com/ntanhfai/ntanhfai.github.io/tree/main/Web-System-Tools). Bạn cần phải theo dõi Github này thường xuyên vì nó có thể liên tục được cập nhật 

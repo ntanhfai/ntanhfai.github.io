@@ -104,6 +104,21 @@ body {
     --gradient-color: #053b11;
 }
 
+.menu>ol>li:nth-child(9) {
+    --accent-color: #913015;
+    --gradient-color: #6d5508;
+}
+
+.menu>ol>li:nth-child(10) {
+    --accent-color: #3c750d;
+    --gradient-color: #0d6081;
+}
+
+.menu>ol>li:nth-child(11) {
+    --accent-color: #860e0e;
+    --gradient-color: #250c7e;
+}
+
 .menu>ol>li a {
     color: #fbfbfb;
     display: block;
