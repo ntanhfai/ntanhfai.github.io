@@ -1,13 +1,5 @@
----
-title: "AI Dept storage softwares! "
---- 
 
-
-## Menu
-- Kho Download các Tools cần thiết cho làm việc [Tại đây](https://github.com/ntanhfai/ntanhfai.github.io/releases)
-- [Kinh tế doanh nghiệp](Doanh_nghiep/Khai_niem_lien_quan_den_tien.md)
-
-# Các nội dung quan trọng
+# AI Softwares and Libraries
 
 ## Apps-Tools-Competed Code
 - [RTSP_Server_from_videos](https://ntanhfai.github.io/RTSP_Server_from_videos/)
