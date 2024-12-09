@@ -89,6 +89,21 @@ body {
     --gradient-color: #fe90af;
 }
 
+.menu>ol>li:nth-child(6) {
+    --accent-color: #089289;
+    --gradient-color: #70f791;
+}
+
+.menu>ol>li:nth-child(7) {
+    --accent-color: #808bf5;
+    --gradient-color: #a1c015;
+}
+
+.menu>ol>li:nth-child(8) {
+    --accent-color: #97e619;
+    --gradient-color: #02741a;
+}
+
 .menu>ol>li a {
     color: #fbfbfb;
     display: block;
