@@ -1,14 +1,6 @@
 
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
-
+# Các khái niệm liên quan đến Tiền trong Doanh nghiệp
  
------------------------------------------------------------------
-## Links:
-- [Go Home](https://ntanhfai.github.io/)
-
 ### **1. Doanh thu (Revenue)**  
 - Tổng số tiền thu được từ việc bán sản phẩm hoặc cung cấp dịch vụ.  
 - Gồm: **Doanh thu thuần** (doanh thu sau khi trừ chiết khấu, giảm giá, thuế).  
