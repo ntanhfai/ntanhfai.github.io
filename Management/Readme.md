@@ -1,9 +1,7 @@
 
 # Quản lý hệ thống - Quản lý phần mềm - Quản lý dự án
 
-<link rel="stylesheet" href="/ta_includes/tastyle.css">
-{% include tamenu.html param='value' param2='value' %} 
-
+ 
 ## Links:
 - [Go Home](https://ntanhfai.github.io/)
 
