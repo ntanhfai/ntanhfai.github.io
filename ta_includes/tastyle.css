@@ -65,43 +65,43 @@ body {
 }
 
 .menu>ol>li:nth-child(1) {
-    --accent-color: #fda085;
-    --gradient-color: #f6d365;
+    --accent-color: #913015;
+    --gradient-color: #6d5508;
 }
 
 .menu>ol>li:nth-child(2) {
-    --accent-color: #bff098;
-    --gradient-color: #6fd6ff;
+    --accent-color: #3c750d;
+    --gradient-color: #0d6081;
 }
 
 .menu>ol>li:nth-child(3) {
-    --accent-color: #ea8d8d;
-    --gradient-color: #a890fe;
+    --accent-color: #860e0e;
+    --gradient-color: #250c7e;
 }
 
 .menu>ol>li:nth-child(4) {
-    --accent-color: #d8b5ff;
-    --gradient-color: #1eae98;
+    --accent-color: #460b8a;
+    --gradient-color: #086658;
 }
 
 .menu>ol>li:nth-child(5) {
-    --accent-color: #c6ea8d;
-    --gradient-color: #fe90af;
+    --accent-color: #4b7409;
+    --gradient-color: #770b29;
 }
 
 .menu>ol>li:nth-child(6) {
-    --accent-color: #089289;
-    --gradient-color: #70f791;
+    --accent-color: #066d66;
+    --gradient-color: #7c4e08;
 }
 
 .menu>ol>li:nth-child(7) {
-    --accent-color: #808bf5;
-    --gradient-color: #a1c015;
+    --accent-color: #0d1ca5;
+    --gradient-color: #3c4708;
 }
 
 .menu>ol>li:nth-child(8) {
-    --accent-color: #97e619;
-    --gradient-color: #02741a;
+    --accent-color: #57702e;
+    --gradient-color: #053b11;
 }
 
 .menu>ol>li a {
