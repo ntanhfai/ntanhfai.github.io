@@ -52,6 +52,7 @@ body {
     padding: 0;
     margin-top: 0px;
     margin-bottom: 0px;
+    background: #3c3c3c;
 }
 
 .menu>ol>li {
@@ -205,7 +206,7 @@ body {
         max-width: none;
         text-align: center;
         margin: 0;
-        background: teal;
+        background: #3c3c3c;
     }
 
     .menu>ol>li {
