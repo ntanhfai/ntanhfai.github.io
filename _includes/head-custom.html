@@ -36,7 +36,10 @@
                   contentDiv.parentNode.insertBefore(menu, contentDiv);
               })
               .catch(error => console.error('Error loading menu:', error));
-      }
+          var footer = document.querySelector('.site-footer'); // Check if the element exists before trying to remove it 
+          if (footer) { footer.parentNode.removeChild(footer); }
+
+            }
 
       // Load the menu when the page loads
       window.onload = loadMenu;
