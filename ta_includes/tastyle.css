@@ -97,6 +97,7 @@ body {
 
 .menu>ol>li a:not(:last-child):before {
     content: "\f078";
+    /* content: "\25be  or  \25bc  ?  "; */
     font-family: fontAwesome;
     font-size: 0.75em;
     line-height: 50px;
@@ -247,7 +248,7 @@ body {
 
 @media (min-width: 775px) {
     .menu>ol>li {
-        width: 150px;
+        width: 200px;
     }
 
     .menu>ol>li a:not(:last-child):before {
