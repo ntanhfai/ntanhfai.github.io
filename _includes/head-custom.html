@@ -14,47 +14,19 @@
 }
 
 </style>
+
+
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-    // Create a new div element for the menu
-    var menu = document.createElement("div");
-    menu.innerHTML = `
+        document.addEventListener("DOMContentLoaded", function() {
+            fetch('/ta_includes/tamenu.html')
+                .then(response => response.text())
+                .then(data => {
+                    const body = document.querySelector('body');
+                    body.insertAdjacentHTML('afterbegin', data);
+                })
+                .catch(error => console.error('Error loading menu:', error));
+        });
+    </script>
 
-<div class="full-width">
-<nav class="menu">
-  <ol>
-    <li class="menu-item"><a href="/">Home</a></li>
-    <li class="menu-item"><a href="https://aisolutions.vn/">Aisolutions.vn</a></li>
-
-    <li class="menu-item">
-      <a href="#0">PM</a>
-      <ol class="sub-menu">
-        <li class="menu-item"><a href="/Management">Project Managerments Basic</a></li> 
-      </ol>
-    </li>
-
-    <li class="menu-item">
-      <a href="#0">Vision</a>
-      <ol class="sub-menu">
-        <li class="menu-item"><a href="/Vision">Vision Basic</a></li> 
-      </ol>
-    </li>
-    
-    <li class="menu-item">
-      <a href="#0">Web System</a>
-      <ol class="sub-menu">
-        <li class="menu-item"><a href="/Web-System-Tools">Web System Basic</a></li> 
-      </ol>
-    </li>
-
-    <li class="menu-item"><a href="/about.md">Contact</a></li>
-  </ol>
-</nav>
-</div>
-
-    `;
-
-    // Insert the menu right after the <body> tag
-    document.body.insertAdjacentElement('afterbegin', menu);
-});
-</script>
+<script>
+ 
