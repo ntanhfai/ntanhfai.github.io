@@ -203,6 +203,8 @@ body {
         display: block;
         max-width: none;
         text-align: center;
+        margin: 0;
+        background: teal;
     }
 
     .menu>ol>li {

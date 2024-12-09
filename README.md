@@ -1,7 +1,7 @@
 
 
-<link rel="stylesheet" href="/ta_includes/tastyle.css">
-{% include tamenu.html param='value' param2='value' %} 
+<!-- <link rel="stylesheet" href="/ta_includes/tastyle.css">
+{ % include tamenu.html param='value' param2='value' % }  -->
 
 
 ## Menu
