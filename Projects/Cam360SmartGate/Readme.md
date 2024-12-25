@@ -20,7 +20,7 @@
 | Reporter             | Nguyen Tuan Anh                    | V1023626 | 阮俊英  | 
 
 Bac giang, 2024-12-20
-
+<a href="Projects\Cam360SmartGate\assets\Cam360-smartgate-v1.docx">Download Docx Version</a>
 
 PROJECT SUMMARY
 ===============
