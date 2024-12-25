@@ -11,6 +11,11 @@
 - Web-System-Tools: [Web-System-Tools](https://ntanhfai.github.io/Web-System-Tools/)
 - Python Book [Download](Data-Books/000 Python cheatsheet.pdf)
 
+## Projects
+
+- Cam360 SmartGate 
+  - Complation Report [View](Projects\Cam360SmartGate\Readme.md)
+  - Engineer report [Aisolutions link](https://aisolutions.vn/cam360/lh/)
 
 # Hướng dẫn khác
 
