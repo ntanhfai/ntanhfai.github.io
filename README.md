@@ -14,7 +14,7 @@
 ## Projects
 
 - Cam360 SmartGate 
-  - Complation Report [View](Projects\Cam360SmartGate\Readme.md)
+  - Complation Report [View](https://github.com/ntanhfai/ntanhfai.github.io/blob/main/Projects/Cam360SmartGate/Readme.md)
   - Engineer report [Aisolutions link](https://aisolutions.vn/cam360/lh/)
 
 # Hướng dẫn khác
