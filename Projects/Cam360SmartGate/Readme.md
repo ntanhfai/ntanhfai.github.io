@@ -1,8 +1,9 @@
-![](file:///C:/Users/TA/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg) ![](file:///C:/Users/TA/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![](assets/2024-12-25-17-35-13.png)
+![](assets/2024-12-25-17-35-19.png)
 
-Completion Report
+<h3>Completion Report</h3>
 
-Cam360 -- Smartgate System
+<H1>Cam360 -- Smartgate System</H1>
 
 | Project name:        | Cam360 – Smartgate System          |          |      |
 | -------------------- | ---------------------------------- | -------- | ---- |
