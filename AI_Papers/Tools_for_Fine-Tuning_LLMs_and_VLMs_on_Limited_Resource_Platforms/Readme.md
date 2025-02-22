@@ -1,3 +1,8 @@
+# Tools for Fine-Tuning LLMs and VLMs on Limited Resource Platforms
+
+Video: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9GkWD7hV-jQ?si=BR4ru7Ceim7m7H1i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Key Points
 - Tools like Hugging Face's Transformers, PEFT Library, DeepSpeed, PyTorch, and Unsloth are used for fine-tuning LLMs and VLMs on limited resource platforms.
 - These tools prioritize high training speed and efficiency through techniques like parameter-efficient fine-tuning and memory optimization.
