@@ -17,6 +17,11 @@
   - Complation Report [View](https://github.com/ntanhfai/ntanhfai.github.io/blob/main/Projects/Cam360SmartGate/Readme.md)
   - Engineer report [Aisolutions link](https://aisolutions.vn/cam360/lh/)
 
+## AI Papers
+
+- LLMs - VLMs
+  - Survey Note: Tools for Fine-Tuning LLMs and VLMs on Limited Resource Platforms [view](AI_Papers/Tools_for_Fine-Tuning_LLMs_and_VLMs_on_Limited_Resource_Platforms/Readme.md)
+
 # Hướng dẫn khác
 
 ## 1. Make_Iso_folders
