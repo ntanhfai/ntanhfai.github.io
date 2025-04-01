@@ -26,7 +26,7 @@ AI (trí tuệ nhân tạo) đang thay đổi cách các doanh nghiệp hoạt �
 - **Video:** Xem TED Talks về AI trong kinh doanh (tìm từ khóa "AI in Business").  
 
 #### **1.3. Thực hành**
-- Dùng ChatGPT hoặc Grok (như tôi!) để đặt câu hỏi đơn giản: "AI giúp marketing như thế nào?"  
+- Dùng ChatGPT hoặc Grok để đặt câu hỏi đơn giản: "AI giúp marketing như thế nào?"  
 - Tìm hiểu một công cụ AI miễn phí như Google Analytics (phân tích dữ liệu cơ bản).
 
 #### **1.4. Kết quả mong đợi**
