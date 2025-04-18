@@ -111,5 +111,11 @@ Link video để học:
 - How to Plan a Project: <https://www.youtube.com/watch?v=dRdUaYP6H5w>
 - Managing People on Projects: <https://www.youtube.com/watch?v=Ksk8W2I7vH8>
 
+
+# Các bài học trong mạng nội bộ Foxconn:
+
+- https://iedu.foxconn.com/public/play/play?courseId=34937&companyId=742
+
+
 Chúc bạn học tập hiệu quả và thành công trên con đường trở thành một project manager!
 
